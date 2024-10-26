@@ -23,3 +23,10 @@ go.work.sum
 
 # env file
 .env
+
+# Hugo
+.hugo_build.lock
+public/
+
+# Personal
+**/.trash
