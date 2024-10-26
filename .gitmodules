@@ -1,0 +1,3 @@
+[submodule "themes/ferrari_gallery"]
+	path = themes/ferrari_gallery
+	url = https://github.com/chuyphun/hugo-theme-gallery-for-ferrari-liquor.git
