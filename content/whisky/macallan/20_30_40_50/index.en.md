@@ -1,6 +1,6 @@
 ---
 date: 2024-10-26
-description: "Price: NT$7,000"
+#description: "Price: NT$7,000"
 featured_image: bottles_front.jpg
 #featured: true
 #type: gallery

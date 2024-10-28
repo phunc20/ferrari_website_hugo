@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-description: "Price: NT$6,000"
+#description: "Price: NT$6,000"
 featured_image: bottle_front.jpg
 #type: gallery
 sort_by: Name
