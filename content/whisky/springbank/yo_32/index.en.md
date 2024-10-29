@@ -10,5 +10,4 @@ resources:
   - src: springbank/aged_32_years/box_front.jpg
     title: "anyway"
 ---
-Price: {{/* $springbanks := where .Site.Data.whisky.price.brand "Springbank" */}}
-{{/* $springbanks */}}
+{{< this_price >}}
