@@ -3,12 +3,32 @@ springbank:
     ntd: 150,000
     mom_ntd: 65,000
 macallan:
-  18yo:
-    ntd: 50,000
-    mom_ntd: 40,000
-  12yo:
-    ntd: 10,000
+  yo_12_percent_40_ml_700:
+    ntd: 5,000
     mom_ntd: 5,000
+  yo_18_distilled_1992_percent_43_ml_700:
+    ntd: 35,000
+    mom_ntd: 20,000
+  yo_18_distilled_1992_percent_43_ml_700_gift_set:
+    ntd: 50,000
+    mom_ntd: 26,000
+  yo_12_percent_40_ml_750:
+    ntd: 20,000
+    mom_ntd: 20,000
+  elegancia_distilled_1991_bottled_2003_percent_40_ml_1000:
+    ntd: 58,000
+    mom_ntd: "40,000???"
+  cask_strength_percent_57_ml_1000:
+    ntd: 90,000
+    mom_ntd: "???"
   travel_series:
     ntd: 105,000
-    mom_ntd: 5,000
+    mom_ntd: "50,000???"
+convalmore:
+  distilled_1977_bottled_2005_percent_58_ml_700:
+    ntd: 50,000
+    mom_ntd: 20,000
+glenlivet:
+  scott_distilled_1977_bottled_2007:
+    ntd: 22,000
+    mom_ntd: "20,000???"
