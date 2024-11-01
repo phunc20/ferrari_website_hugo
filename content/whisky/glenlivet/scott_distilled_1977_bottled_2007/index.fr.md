@@ -1,10 +1,10 @@
 ---
-date: 2024-11-01
-description: "全球限量 3900 瓶, 編號 2741 / 3900"
-#featured_image: 01_bottle_box_front.jpg
+date: 2024-10-31
+#description: "Price: NT$6,000"
+#featured_image: 01_box_and_bottle_front.jpg
 #type: gallery
 sort_by: Name
-title: 1977 年釀造 2007 年裝瓶
+title: Selection de Scott Distillé 1977 Bouché 2007
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg

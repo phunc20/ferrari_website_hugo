@@ -1,10 +1,10 @@
 ---
-date: 2024-10-31
+date: 2024-11-01
 description: "LIMITED EDITION. Bottle No. 2741 / 3900"
-featured_image: convalmore_to_be_deleted.jpg
+#featured_image: 01_bottle_box_front.jpg
 #type: gallery
 sort_by: Name
-title: Distilled 1977
+title: Distilled 1977 Bottled 2007
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg

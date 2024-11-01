@@ -1,7 +1,8 @@
 ---
-#description: This is the "Macallen" album.
+#description: This is the "Springbank" album.
 #featured_image: springbank_logo.jpg
 #keywords: ["Whisky", "Springbank"]
-title: Macallan
+title: Springbank
 weight: 2
+#menus: "main"
 ---
