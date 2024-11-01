@@ -1,5 +1,5 @@
 ---
-description: a random description
+#description: a random description
 lastmod: 2024-10-26
 title: Ferrari Liquor
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory

@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
+#baseURL = "https://phunc20.github.io/ferrari_website_hugo/"
 #languageCode = 'zh-tw'
 defaultContentLanguage = 'zh-tw'
 title = 'Ferrari Liquor Website'
@@ -13,12 +14,12 @@ theme = 'ferrari_gallery'
     email = "phunc20@gmail.com"
     name = "phunc20"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
     github = "https://github.com/phunc20/ferrari_website_hugo"
     youtube = "https://www.youtube.com/@phunc20"
     email = "mailto:phunc20@gmail.com"
-    #website = "https://example.com"
+    #website = "https://phunc20.github.io/ferrari_website_hugo/"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
 
@@ -27,59 +28,69 @@ theme = 'ferrari_gallery'
   [languages.zh-tw]
     disabled = false
     languageCode = 'zh-tw'
-    languageName = '🇹🇼 中文'
+    languageName = "🇹🇼 中文"
+    #languageName = "中文"
     languageDirection = 'ltr'
     title = '法拉利酒坊'
     weight = 1
     [languages.zh-tw.params]
       subtitle = '隨便亂寫一通'
+      languageFlag = "🇹🇼"
 
   [languages.en]
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
-    languageName = '🇺🇸 English'
+    languageName = "🇺🇸 English"
+    #languageName = "English"
     title = 'Ferrari Liquor'
     weight = 2
     [languages.en.params]
       subtitle = 'Reference, Tutorials, and Explanations'
+      languageFlag = "🇺🇸"
 
   [languages.fr]
     disabled = false
     languageCode = 'fr-US'
     languageDirection = 'ltr'
-    languageName = '🇫🇷 Français'
+    languageName = "🇫🇷 Français"
+    #languageName = "Français"
     title = 'Site en Français'
     weight = 3
     [languages.fr.params]
       subtitle = 'Reference, Tutorials, and Explanations'
+      languageFlag = "🇫🇷"
 
   [languages.ja]
     disabled = false
     languageCode = 'ja'
     languageDirection = 'ltr'
-    languageName = '🇯🇵 日本語'
+    languageName = "🇯🇵 日本語"
+    #languageName = "日本語"
     title = 'to be specified'
     weight = 4
     [languages.ja.params]
       subtitle = 'Reference, Tutorials, and Explanations'
+      languageFlag = "🇯🇵"
 
   [languages.vn]
     disabled = true
-    languageCode = 'vn-US'
+    languageCode = 'vn'
     languageDirection = 'ltr'
-    languageName = 'English'
+    languageName = "Tiếng Việt"
     title = 'Project Documentation'
     weight = 5
     [languages.vn.params]
       subtitle = 'Reference, Tutorials, and Explanations'
+      languageFlag = "🇻🇳"
 
   [languages.de]
     disabled = true
     languageCode = 'de-DE'
     languageDirection = 'ltr'
-    languageName = 'Deutsch'
+    languageName = "Deutsch"
     title = 'Projekt Dokumentation'
     weight = 7
     [languages.de.params]
       subtitle = 'Referenz, Tutorials und Erklärungen'
+      languageFlag = "🇩🇪"

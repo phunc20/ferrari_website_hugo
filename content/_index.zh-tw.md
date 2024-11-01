@@ -1,5 +1,5 @@
 ---
-description: "爸媽開的店"
+#description: "爸媽開的店"
 lastmod: 2024-10-19
 title: "法拉利酒坊"
 #featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
