@@ -18,3 +18,5 @@ Ferrari Liquor's website using Hugo framework
     - [ ] Flag and language switcher on each page
         - <https://gohugo.io/content-management/multilingual/#reference-translated-content>
         - <https://discourse.gohugo.io/t/language-switcher-in-menu/11570/8>
+3. Absurd
+    - [ ] Why in French's menu: Whisky is higher than Home?
