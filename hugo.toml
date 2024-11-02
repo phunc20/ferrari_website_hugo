@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 #baseURL = "https://phunc20.github.io/ferrari_website_hugo/"
 #languageCode = 'zh-tw'
 defaultContentLanguage = 'zh-tw'
-title = 'Ferrari Liquor Website'
+#title = 'Ferrari Liquor Website'
 theme = 'ferrari_gallery'
 
 
@@ -28,10 +28,9 @@ theme = 'ferrari_gallery'
   [languages.zh-tw]
     disabled = false
     languageCode = 'zh-tw'
-    languageName = "🇹🇼 中文"
-    #languageName = "中文"
+    languageName = "中文"
     languageDirection = 'ltr'
-    title = '法拉利酒坊'
+    #title = 'to be specified'
     weight = 1
     [languages.zh-tw.params]
       subtitle = '隨便亂寫一通'
@@ -41,9 +40,8 @@ theme = 'ferrari_gallery'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
-    languageName = "🇺🇸 English"
-    #languageName = "English"
-    title = 'Ferrari Liquor'
+    languageName = "English"
+    #title = 'to be specified'
     weight = 2
     [languages.en.params]
       subtitle = 'Reference, Tutorials, and Explanations'
@@ -53,9 +51,8 @@ theme = 'ferrari_gallery'
     disabled = false
     languageCode = 'fr-US'
     languageDirection = 'ltr'
-    languageName = "🇫🇷 Français"
-    #languageName = "Français"
-    title = 'Site en Français'
+    languageName = "Français"
+    #title = 'to be specified'
     weight = 3
     [languages.fr.params]
       subtitle = 'Reference, Tutorials, and Explanations'
@@ -65,9 +62,8 @@ theme = 'ferrari_gallery'
     disabled = false
     languageCode = 'ja'
     languageDirection = 'ltr'
-    languageName = "🇯🇵 日本語"
-    #languageName = "日本語"
-    title = 'to be specified'
+    languageName = "日本語"
+    #title = 'to be specified'
     weight = 4
     [languages.ja.params]
       subtitle = 'Reference, Tutorials, and Explanations'
@@ -78,7 +74,7 @@ theme = 'ferrari_gallery'
     languageCode = 'vn'
     languageDirection = 'ltr'
     languageName = "Tiếng Việt"
-    title = 'Project Documentation'
+    #title = 'Project Documentation'
     weight = 5
     [languages.vn.params]
       subtitle = 'Reference, Tutorials, and Explanations'
@@ -89,7 +85,7 @@ theme = 'ferrari_gallery'
     languageCode = 'de-DE'
     languageDirection = 'ltr'
     languageName = "Deutsch"
-    title = 'Projekt Dokumentation'
+    #title = 'Projekt Dokumentation'
     weight = 7
     [languages.de.params]
       subtitle = 'Referenz, Tutorials und Erklärungen'

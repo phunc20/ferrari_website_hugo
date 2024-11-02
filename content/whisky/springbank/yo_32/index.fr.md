@@ -1,7 +1,7 @@
 ---
 date: 2024-11-01
 #description: "Price: NT$6,000"
-#featured_image: bottle_front.jpg
+featured_image: 01_box_front.jpg
 featured: true
 #type: gallery
 sort_by: Name

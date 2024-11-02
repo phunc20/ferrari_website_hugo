@@ -1,6 +1,6 @@
 ---
 #description: This is the "Whisky" album.
-featured: true
+#featured: true
 #featured_image: sit_together.jpg
 keywords: []
 title: 威士忌
