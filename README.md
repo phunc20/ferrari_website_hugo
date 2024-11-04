@@ -13,10 +13,12 @@ Ferrari Liquor's website using Hugo framework
 
 ## TODOs
 1. [ ] Put the prices in the outer album card.
-2. Themes
+1. Themes
     - [ ] `grep -Rn "photoCount" layouts/` add price at an earlier stage
     - [ ] Flag and language switcher on each page
         - <https://gohugo.io/content-management/multilingual/#reference-translated-content>
         - <https://discourse.gohugo.io/t/language-switcher-in-menu/11570/8>
-3. Absurd
+1. Absurd
     - [ ] Why in French's menu: Whisky is higher than Home?
+1. [ ] Website's QR code
+1. [ ] `data/price.yaml` cannot classify by cognac/whisky/etc.?
