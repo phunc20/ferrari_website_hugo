@@ -12,7 +12,9 @@ Ferrari Liquor's website using Hugo framework
 
 
 ## TODOs
-1. [ ] Put the prices in the outer album card.
+1. Price
+    - [ ] Put the prices in the outer album card.
+    - [ ] Bold or bigger font
 1. Themes
     - [ ] `grep -Rn "photoCount" layouts/` add price at an earlier stage
     - [ ] Flag and language switcher on each page
