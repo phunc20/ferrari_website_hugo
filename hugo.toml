@@ -16,10 +16,10 @@ theme = 'ferrari_gallery'
   [params.socialIcons]
     #facebook = "https://www.facebook.com/"
     #instagram = "https://www.instagram.com/"
-    github = "https://github.com/phunc20/ferrari_website_hugo"
+    #github = "https://github.com/phunc20/ferrari_website_hugo"
     youtube = "https://www.youtube.com/@phunc20"
     email = "mailto:phunc20@gmail.com"
-    #website = "https://phunc20.github.io/ferrari_website_hugo/"
+    website = "https://phunc20.github.io/"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
 

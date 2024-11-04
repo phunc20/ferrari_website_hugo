@@ -4,7 +4,7 @@ date: 2024-10-31
 #featured: true
 #type: gallery
 #sort_by: Name
-title: Elegancia (40%, 1L)
+title: Elegancia (40度, 1l)
 #categories: ["whisky", "macallan"]
 #resources:
 #  - src: macallan/20_30_40_50/PXL_20241004_100905984.jpg
