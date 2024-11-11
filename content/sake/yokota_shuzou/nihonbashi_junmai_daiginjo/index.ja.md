@@ -1,6 +1,6 @@
 ---
 date: 2024-11-09
-#description: 
+description: 金賞受賞。17度、720 ml。平成29年2月製造
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
 sort_by: Name
