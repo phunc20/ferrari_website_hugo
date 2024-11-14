@@ -27,6 +27,7 @@ go.work.sum
 # Hugo
 .hugo_build.lock
 public/
+resources/
 
 # Personal
 **/.trash
