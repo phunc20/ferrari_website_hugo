@@ -1,7 +1,11 @@
 johnnie_walker:
   blue_label_200_an:
-    ntd: 80,000
+    ntd: 120,000
     mom_ntd: 169,945
+suntory:
+  royal_snake_year_2001_percent_43_ml_600:
+    ntd: 5,700
+    mom_ntd: 5,200
 yokota_shuzou:
   nihonbashi_junmai_daiginjo:
     ntd: 1,000
