@@ -43,3 +43,4 @@ Ferrari Liquor's website using Hugo framework
     - [ ] Google map
     - [ ] QR code of the website
 1. [ ] Read the laws in Taiwan: <https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0330011>
+1. [ ] Bombay Sapphire's logo's aspect ratio
