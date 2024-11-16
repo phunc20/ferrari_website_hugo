@@ -2,6 +2,11 @@ ballantines:
   yo_30_percent_43_ml_700:
     ntd: 31,750
     mom_ntd: 11,000
+    dad_ntd: ???
+  rare_aged_yo_21_percent_43_ml_700:
+    ntd: 11,000
+    mom_ntd: 10,000
+    dad_ntd: ???
 bombay_sapphire:
   london_dry_gin_ml_1000:
     ntd: 600
