@@ -1,7 +1,7 @@
 ---
 date: 2024-11-18
-title: ２５年
-description: ５７．８度、 ７００ml。２００４年に瓶詰め。２１，０００本限定。ボトル No.０１３５６
+title: Aged 20 Years
+description: 58.8%. 700 mL. Distilled in 1982 and bottled in 2003. Limited to 12,000 bottles. Bottle No. 2250.
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
 sort_by: Name
