@@ -1,3 +1,14 @@
+talisker:
+  yo_20:
+    ntd: 32,000
+    mom_ntd: 22,000
+  yo_25:
+    ntd: 38,000
+    mom_ntd: 25,000
+ardbeg:
+  yo_10:
+    ntd: 1,500
+    mom_ntd: 1,400
 highland_park:
   yo_30:
     ntd: 50,000
