@@ -1,3 +1,7 @@
+lagavulin:
+  distillers_edition:
+    ntd: 30,000
+    dad_ntd: 41,000
 laphroaig:
   yo_10:
     ntd: 4,000
@@ -124,11 +128,11 @@ macallan:
   travel_series:
     ntd: 105,000
     mom_ntd: 72,500
-  yo_30:
+  fine_oak_yo_30:
     ntd: 172,000
     mom_ntd: 136,000
-    dad_ntd: 200,000
-  yo_25:
-    ntd: 97,000
+    dad_ntd: 190,000
+  fine_oak_yo_25:
+    ntd: 85,000
     mom_ntd: 63,000
     dad_ntd: 85,000

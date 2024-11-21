@@ -1,7 +1,7 @@
 ---
 date: 2024-11-19
 title: The Distillers Edition
-#description: 59.4%. 700 mL. Distilled in 1978.
+description: 43%. 700 mL. Distilled in 1987. Bottled in 2003.
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Name

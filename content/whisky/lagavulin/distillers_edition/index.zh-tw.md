@@ -1,8 +1,7 @@
 ---
 date: 2024-11-19
-title: 25 年
 title: The Distillers Edition
-#description: 59.4 度. 700 毫升. 1978 年蒸餾.
+description: 43 度. 700 毫升. 1987 年蒸餾. 2003 年裝瓶.
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Name
