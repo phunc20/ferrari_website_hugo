@@ -1,7 +1,7 @@
 ---
 date: 2024-11-19
 title: Fine Oak ３０年
-#description: ４８．１度、 ７００ml
+description: ４３度、 ７００ml。
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
 sort_by: Name

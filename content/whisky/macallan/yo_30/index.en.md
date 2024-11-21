@@ -1,7 +1,7 @@
 ---
 date: 2024-11-19
 title: Fine Oak 30 Years Old
-#description: 48.1%. 700 mL
+description: 43%. 700 mL
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
 sort_by: Name

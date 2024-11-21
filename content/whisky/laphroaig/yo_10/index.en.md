@@ -1,7 +1,7 @@
 ---
 date: 2024-11-19
 title: 10 Years Old
-#description: 59.4%. 700 mL. Distilled in 1978.
+description: 43%. 750 mL.
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Name

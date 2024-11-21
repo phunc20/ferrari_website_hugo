@@ -1,7 +1,7 @@
 ---
 date: 2024-11-19
 title: Find Oak 30 Ans
-#description: 48.1%. 700 mL
+description: 43%. 700 mL
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
 sort_by: Name

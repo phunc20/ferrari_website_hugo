@@ -1,7 +1,7 @@
 ---
 date: 2024-11-19
 title: Fine Oak 25 Ans
-#description: 59,4%. 700 mL. Distillé en 1978.
+description: 43%. 700 mL.
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Name

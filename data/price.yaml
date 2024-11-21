@@ -1,3 +1,7 @@
+laphroaig:
+  yo_10:
+    ntd: 4,000
+    mom_ntd: 2,000
 caol_ila:
   yo_25:
     ntd: 19,000
@@ -11,7 +15,7 @@ talisker:
     mom_ntd: 25,000
 ardbeg:
   yo_10:
-    ntd: 1,500
+    ntd: 1,800
     mom_ntd: 1,400
 highland_park:
   yo_12:
@@ -28,9 +32,9 @@ bowmore:
     mom_ntd: ???
     dad_ntd: 48,000
   yo_15:
-    ntd: 10,000
+    ntd: 15,000
     mom_ntd: 10,000
-    dad_ntd: 13,000
+    dad_ntd: 15,000
 ballantines:
   yo_30_percent_43_ml_700:
     ntd: 20,000
@@ -120,3 +124,11 @@ macallan:
   travel_series:
     ntd: 105,000
     mom_ntd: 72,500
+  yo_30:
+    ntd: 172,000
+    mom_ntd: 136,000
+    dad_ntd: 200,000
+  yo_25:
+    ntd: 97,000
+    mom_ntd: 63,000
+    dad_ntd: 85,000
