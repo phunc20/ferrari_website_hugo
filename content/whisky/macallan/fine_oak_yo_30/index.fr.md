@@ -1,6 +1,6 @@
 ---
 date: 2024-11-19
-title: Find Oak 30 Ans
+title: Fine Oak 30 Ans
 description: 43%. 700 mL
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery

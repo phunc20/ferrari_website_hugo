@@ -1,3 +1,8 @@
+mortlach:
+  yo_16:
+    ntd: 2,500
+    mom_ntd: 2,500
+    dad_ntd: 3,400
 lagavulin:
   distillers_edition:
     ntd: 30,000
@@ -136,3 +141,7 @@ macallan:
     ntd: 85,000
     mom_ntd: 63,000
     dad_ntd: 85,000
+  sherry_oak_yo_30:
+    ntd: 205,000
+    mom_ntd: 200,000
+    dad_ntd: 300,000
