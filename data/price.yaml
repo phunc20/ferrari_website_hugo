@@ -1,3 +1,8 @@
+glen_torran:
+  yo_18:
+    ntd: 2,000
+    mom_ntd: ???
+    dad_ntd: ???
 glenmorangie:
   yo_10:
     ntd: 3,800
@@ -155,3 +160,7 @@ macallan:
     ntd: 205,000
     mom_ntd: 200,000
     dad_ntd: 300,000
+  sherry_oak_yo_25:
+    ntd: 93,000
+    mom_ntd: 85,000
+    dad_ntd: 146,000
