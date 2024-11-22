@@ -1,6 +1,6 @@
 ---
 date: 2024-11-22
-title: 30 Years Old Sherry Oak
+title: 30 Years Old. Sherry Oak.
 description: 43%. 700 mL
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
