@@ -5,9 +5,9 @@ royal_salute:
     dad_ntd: 23,000
 glen_torran:
   yo_18:
-    ntd: 2,000
-    mom_ntd: ???
-    dad_ntd: ???
+    ntd: 3,000
+    mom_ntd: 2,000
+    dad_ntd: 4,000
 glenmorangie:
   yo_10:
     ntd: 3,800
