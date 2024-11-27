@@ -1,3 +1,13 @@
+dupuy:
+  extra:
+    ntd: 3,000
+    mom_ntd: 2,800
+    dad_ntd: ???
+the_famous_grouse:
+  banal:
+    ntd: 300
+    mom_ntd: 300
+    dad_ntd: 350
 royal_salute:
   hundred_cask_selection:
     ntd: 9,300
@@ -73,6 +83,10 @@ ballantines:
     ntd: 11,000
     mom_ntd: 10,000
     dad_ntd: ???
+  yo_17_percent_43_ml_750:
+    ntd: 2,600
+    mom_ntd: 1,600
+    dad_ntd: 6,000
 bombay_sapphire:
   london_dry_gin_ml_1000:
     ntd: 600
