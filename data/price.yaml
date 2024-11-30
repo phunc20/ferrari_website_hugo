@@ -110,6 +110,10 @@ johnnie_walker:
   blue_label_200_an:
     ntd: 130,000
     mom_ntd: 169,945
+  king_george_v:
+    ntd: 16,000
+    mom_ntd: 10,000
+    dad_ntd: 22,000
 suntory:
   royal_snake_year_2001_percent_43_ml_600:
     ntd: 5,700
