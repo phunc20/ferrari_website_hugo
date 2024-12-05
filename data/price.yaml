@@ -148,9 +148,13 @@ remy_martin:
     ntd: 150,000
     mom_ntd: ???
   centaure_cristal:
-    ntd: 40,000
+    ntd: 45,000
     mom_ntd: 25,000
     dad_ntd: 80,000
+  xo_excellence:
+    ntd: 12,000
+    mom_ntd: 10,000
+    dad_ntd: 18,000
 balblair:
   limited_ed_1925_over_2400:
     ntd: 120,000
