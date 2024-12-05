@@ -147,6 +147,10 @@ remy_martin:
   louis_xiii_millennium_2000:
     ntd: 150,000
     mom_ntd: ???
+  centaure_cristal:
+    ntd: 40,000
+    mom_ntd: 25,000
+    dad_ntd: 80,000
 balblair:
   limited_ed_1925_over_2400:
     ntd: 120,000
