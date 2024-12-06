@@ -117,6 +117,10 @@ camus:
     ntd: 11,000
     mom_ntd: 8,500
     dad_ntd: 20,000
+  sunflowers:
+    ntd: 11,000
+    mom_ntd: 8,500
+    dad_ntd: 20,000
 hennessy:
   richard_percent_40_ml_750:
     ntd: 80,000
