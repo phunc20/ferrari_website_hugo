@@ -113,6 +113,10 @@ camus:
   jubilee_percent_40_ml_700:
     ntd: 70,000
     mom_ntd: 70,000
+  irises:
+    ntd: 11,000
+    mom_ntd: 8,500
+    dad_ntd: 20,000
 hennessy:
   richard_percent_40_ml_750:
     ntd: 80,000
