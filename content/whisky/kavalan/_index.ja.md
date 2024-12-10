@@ -1,5 +1,6 @@
 ---
 title: カバラン
+private: true
 #description: 
 #featured_image: 
 #keywords: [""]
