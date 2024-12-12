@@ -126,7 +126,7 @@ camus:
     dad_ntd: 20,000
 hennessy:
   richard_percent_40_ml_750:
-    ntd: 80,000
+    ntd: 100,000
     mom_ntd: 123,000
   ellipse:
     ntd: 516,000
@@ -223,7 +223,7 @@ macallan:
     dad_ntd: 85,000
     matt_ntd: 40,000
   fine_oak_yo_18:
-    ntd: ???
+    ntd: 6,500
     mom_ntd: ???
     dad_ntd: ???
     matt_ntd: 6,000
