@@ -186,7 +186,6 @@ convalmore:
 glenlivet:
   scott_distilled_1977_bottled_2007:
     ntd: 22,000
-    mom_ntd: "20,000???"
     matt_ntd: 8,800
 macallan:
   yo_12_percent_40_ml_700:
@@ -224,8 +223,6 @@ macallan:
     matt_ntd: 40,000
   fine_oak_yo_18:
     ntd: 6,500
-    mom_ntd: ???
-    dad_ntd: ???
     matt_ntd: 6,000
   sherry_oak_yo_30:
     ntd: 205,000
