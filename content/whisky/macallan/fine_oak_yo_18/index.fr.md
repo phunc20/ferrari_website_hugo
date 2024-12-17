@@ -1,7 +1,7 @@
 ---
 date: 2024-12-09
 title: Fine Oak 18 Ans
-description: 43%, 700mL. Sans carton.
+description: 43%, 700 mL. Sans carton.
 #featured_image: bottles_front.jpg
 #featured: true
 #type: gallery
