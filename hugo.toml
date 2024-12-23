@@ -4,7 +4,7 @@ baseURL = 'https://example.org/'
 defaultContentLanguage = 'zh-tw'
 #title = 'Ferrari Liquor Website'
 theme = 'ferrari_gallery'
-#timeout = "5m"
+timeout = "5m"
 
 
 [params]
