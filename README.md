@@ -36,6 +36,14 @@ Ferrari Liquor's website using Hugo framework
       ```
       find . -name "*.jpg" -exec du -hsx {} \; | sort -h
       ```
+    - To apply quality degradation on git-tracked files exclusively, the following
+      commands might be useful
+      ```bash
+      # To test or dry-run: Ctrl-c to abort
+      $ git lf content/*.jpg | xargs -p -I {} magick {} -quality 50% {}
+      # To run officially
+      $ git lf content/*.jpg | xargs -I {} magick {} -quality 50% {}
+      ```
 1. Price
     - [ ] Put the prices in the outer album card.
     - [ ] Bold or bigger font
