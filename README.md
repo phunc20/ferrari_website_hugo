@@ -2,6 +2,12 @@
 Ferrari Liquor's website using Hugo framework
 
 
+## Constraints
+- GitHub
+    - <https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits>
+    - <https://github.com/actions/upload-pages-artifact/issues/71>
+
+
 ## Caveat
 - `data/whisky/price.yaml`  
   The entries in this file correspond to the directories in `content/whisky`.
@@ -20,6 +26,16 @@ Ferrari Liquor's website using Hugo framework
 
 
 ## TODOs
+1. Too heavy. (Cf. [Constraints](#constraints))  
+   The GitHub Page contains too heavy an artifact. Lowering the image quality
+   is one solution. E.g.
+   ```
+   magick <INPUT_FILE> -quality 30% <OUTPUT_FILE>
+   ```
+    - One may use, for example, the following command to locate large image files
+      ```
+      find . -name "*.jpg" -exec du -hsx {} \; | sort -h
+      ```
 1. Price
     - [ ] Put the prices in the outer album card.
     - [ ] Bold or bigger font
