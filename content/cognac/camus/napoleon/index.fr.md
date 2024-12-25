@@ -1,7 +1,7 @@
 ---
 date: 2024-12-20
 title: Napoléon
-description: 40%. 700 mL.
+description: 40%, 700 mL, 1220 g.
 featured_image: 02_box_front.jpg
 #type: gallery
 sort_by: Name

@@ -1,7 +1,7 @@
 ---
 date: 2024-12-06
 title: Portrait of Dr. Gachet
-description: 40%. 700 mL.
+description: 40%, 700 mL, 1230 g.
 featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Name

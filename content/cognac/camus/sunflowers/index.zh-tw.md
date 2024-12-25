@@ -1,7 +1,7 @@
 ---
 date: 2024-12-06
 title: 向日葵
-description: 40 度. 700 毫升.
+description: 40 度, 700 毫升, 1160 公克.
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Name
