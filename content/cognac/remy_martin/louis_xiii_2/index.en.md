@@ -1,8 +1,8 @@
 ---
-date: 2024-11-04
+date: 2025-01-10
 title: Louis XIII
-private: true
-#featured_image: 02_bottle_in_box.jpg
+description: 40%, 700 mL.
+#featured_image: 02_box_front.jpg
 #type: gallery
 sort_by: Name
 #categories: ["whisky", "springbank"]

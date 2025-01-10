@@ -1,5 +1,7 @@
 # ferrari_website_hugo
-Ferrari Liquor's website using Hugo framework
+Ferrari Liquor's website using Hugo framework.
+Like all `https://{userid}.github.io/{reponame}`,
+the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
 
 
 ## Constraints
@@ -26,6 +28,8 @@ Ferrari Liquor's website using Hugo framework
 
 
 ## TODOs
+1. Front matter
+    - `sort_by: Date` instead of `sort_by: Name`
 1. Too heavy. (Cf. [Constraints](#constraints))  
    The GitHub Page contains too heavy an artifact. Lowering the image quality
    is one solution. E.g.
