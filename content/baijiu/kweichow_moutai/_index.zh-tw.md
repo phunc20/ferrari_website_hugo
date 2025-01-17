@@ -1,7 +1,6 @@
 ---
-title: ザ・リアル マッケンジー
+title: 貴州茅台酒
 #description: 
-private: true
 #featured_image: 
 #keywords: [""]
 weight: 2

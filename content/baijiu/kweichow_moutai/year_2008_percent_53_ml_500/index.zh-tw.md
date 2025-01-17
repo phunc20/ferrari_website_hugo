@@ -1,9 +1,8 @@
 ---
-date: 2024-11-22
-title: Extra Smooth
-description: 40%. 700 mL.
-private: true
-#featured_image: 03_bottle_front.jpg
+date: 2025-01-17
+title: 貴州茅台酒
+description: 53 度, 500 毫升, 910 公克, 西元 2008 年.
+#featured_image: 02_box_front.jpg
 #type: gallery
 sort_by: Name
 #categories: ["whisky", "springbank"]

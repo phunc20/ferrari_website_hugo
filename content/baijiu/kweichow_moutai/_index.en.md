@@ -1,7 +1,6 @@
 ---
-title: ザ・リアル マッケンジー
+title: Kweichow Moutai
 #description: 
-private: true
 #featured_image: 
 #keywords: [""]
 weight: 2

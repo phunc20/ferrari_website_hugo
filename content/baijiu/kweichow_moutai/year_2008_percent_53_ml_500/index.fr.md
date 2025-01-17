@@ -1,9 +1,8 @@
 ---
-date: 2024-11-22
-title: Extra Smooth
-description: 40%. 700 mL.
-private: true
-#featured_image: 03_bottle_front.jpg
+date: 2025-01-17
+title: Kweichow Moutai
+description: 53%, 500 mL, 910 g, année 2008.
+#featured_image: 02_box_front.jpg
 #type: gallery
 sort_by: Name
 #categories: ["whisky", "springbank"]

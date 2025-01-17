@@ -1,7 +1,7 @@
 ---
 title: マッカラン
-#description: This is the "Macallen" album.
-#featured_image: springbank_logo.jpg
-#keywords: ["Whisky", "Springbank"]
+#description: 
+featured_image: macallan_logo.png
+#keywords: ["", ""]
 weight: 2
 ---

@@ -1,6 +1,7 @@
 hine:
   xo:
     ntd: ???
+    p9_ntd: 1,800  # https://www.p9.com.tw/Forum/御鹿XO、滿得吉XO、金豪XO、金頭軒XO、拉珊XO、馬爹利名仕-白蘭地-Topics1309962.aspx
 landy:
   the_wonderful_lamp:
     ntd: 15,000
@@ -158,6 +159,7 @@ camus:
     ntd: 10,000
   extra:
     ntd: ???
+    p9_ntd: 5,200 # https://www.p9.com.tw/Forum/酒圖欣賞-01／10-金頭軒／卡慕香水／無花／俠農N／吉利天鵝／標槍馬立騎-白蘭地-Topics1310021.aspx
   xo_ml_350:
     ntd: ???
 hennessy:

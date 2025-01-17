@@ -2,6 +2,7 @@
 date: 2024-11-22
 title: Extra Smooth
 description: 40%. 700 mL.
+private: true
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Name
