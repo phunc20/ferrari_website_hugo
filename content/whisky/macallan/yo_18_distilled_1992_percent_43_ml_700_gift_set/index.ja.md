@@ -1,12 +1,11 @@
 ---
 date: 2024-10-31
-#description: "Price: NT$7,000"
+title: シェリーオーク１８年ギフトセット
+description: ４３度、（７００＋５０）ml。
+sort_by: Name
 #featured: true
 #type: gallery
-#sort_by: Name
-title: Fine Oak 18 年ギフトセット (43度, 700ml)
 #categories: ["whisky", "macallan"]
 #resources:
 #  - src: macallan/20_30_40_50/PXL_20241004_100905984.jpg
 ---
-{{< this_price >}}
