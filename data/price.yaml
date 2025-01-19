@@ -174,10 +174,12 @@ hennessy:
     mom_ntd: 516,000
   vsop:
     ntd: ???
-  xo_black:
+  vsop_mini:
     ntd: ???
+  xo_black:
+    ntd: 12,800
   xo_red:
-    ntd: 4,300
+    ntd: 12,000
     p9_ntd: 4,300
   xo_gift_set:
     ntd: ???
@@ -244,6 +246,8 @@ glenlivet:
     ntd: 22,000
     matt_ntd: 8,800
 macallan:
+  select_oak_mini:
+    ntd: ???
   yo_12_percent_40_ml_700:
     ntd: 5,000
     mom_ntd: 5,000
