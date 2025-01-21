@@ -3,8 +3,10 @@ kweichow_moutai:
     ntd: ???
 hine:
   xo:
-    ntd: ???
+    ntd: 4,000
     p9_ntd: 1,800  # https://www.p9.com.tw/Forum/御鹿XO、滿得吉XO、金豪XO、金頭軒XO、拉珊XO、馬爹利名仕-白蘭地-Topics1309962.aspx
+    mom_ntd: 3,000 # https://enjoyit999.com/product/5544
+    somewhere_ntd: 4,000
 landy:
   the_wonderful_lamp:
     ntd: 15,000
