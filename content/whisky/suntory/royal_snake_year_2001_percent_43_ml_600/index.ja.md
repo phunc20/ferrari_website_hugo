@@ -10,4 +10,3 @@ title: ローヤル１２年干支ボトル宝船［巳歳］
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}

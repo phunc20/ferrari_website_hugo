@@ -11,4 +11,3 @@ title: 32 ans
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}

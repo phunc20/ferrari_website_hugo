@@ -9,4 +9,3 @@ title: Cask Strength (57.2度, 1l)
 #resources:
 #  - src: macallan/20_30_40_50/PXL_20241004_100905984.jpg
 ---
-{{< this_price >}}

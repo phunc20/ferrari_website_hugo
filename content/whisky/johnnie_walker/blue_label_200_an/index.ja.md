@@ -9,4 +9,3 @@ title: ブルーラベル 200周年 限定
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}

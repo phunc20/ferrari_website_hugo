@@ -10,4 +10,3 @@ title: Selection de Scott Distillé 1977 Bouché 2007
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}

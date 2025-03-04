@@ -10,4 +10,3 @@ title: Cask Strength (57.2%, 1L)
 #resources:
 #  - src: macallan/20_30_40_50/PXL_20241004_100905984.jpg
 ---
-{{< this_price >}}

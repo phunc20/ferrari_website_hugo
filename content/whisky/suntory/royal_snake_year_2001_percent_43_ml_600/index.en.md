@@ -10,4 +10,3 @@ title: ROYAL. "The Year of The Snake"
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}

@@ -10,4 +10,3 @@ title: 1977 年釀造 2007 年裝瓶
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}

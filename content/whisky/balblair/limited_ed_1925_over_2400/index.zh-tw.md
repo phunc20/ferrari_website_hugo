@@ -10,4 +10,3 @@ title: 1966 年釀造 2004 年裝瓶
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}

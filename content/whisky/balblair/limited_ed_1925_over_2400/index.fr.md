@@ -10,4 +10,3 @@ title: Distillé en 1966 Bouché en 2004
 #  - src: springbank/aged_32_years/box_front.jpg
 #    title: "anyway"
 ---
-{{< this_price >}}
