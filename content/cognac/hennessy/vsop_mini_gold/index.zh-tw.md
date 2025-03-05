@@ -1,6 +1,6 @@
 ---
 date: 2025-01-19
-title: V.S.O.P. Miniature
+title: V.S.O.P. (舊版金頭)
 description: 40 度, 50 毫升.
 #featured_image: 02_box_front.jpg
 #type: gallery

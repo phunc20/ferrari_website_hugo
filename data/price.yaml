@@ -179,8 +179,12 @@ hennessy:
     mom_ntd: 516,000
   vsop:
     ntd: ???
-  vsop_mini:
-    ntd: ???
+  vsop_mini_black:
+    ntd: 200
+  vsop_mini_gold:
+    ntd: 250
+  vsop_mini_rainbow:
+    ntd: 300
   xo_black:
     ntd: 12,800
   xo_red:
