@@ -3,7 +3,7 @@ title: Mortlach
 #description: 
 #featured_image: 
 #keywords: [""]
-private: true
+#private: true
 weight: 2
 #menus: "main"
 ---
