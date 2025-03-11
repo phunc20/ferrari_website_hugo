@@ -1,5 +1,5 @@
 ---
-title: The Glenrothes
+title: Glenrothes
 #description: 
 #featured_image: 
 #keywords: [""]

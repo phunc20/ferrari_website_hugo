@@ -1,5 +1,5 @@
 ---
-title: Famous Grouse
+title: Singleton
 #description: 
 #featured_image: 
 #keywords: [""]

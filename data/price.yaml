@@ -269,6 +269,22 @@ glenlivet:
   yo_12:
     ntd: 950
     uncle_ntd: 750
+  yo_15:
+    ntd: 2,200
+    uncle_ntd: 2,000
+singleton:
+  yo_13_sauternes:
+    ntd: 1,450
+    uncle_ntd: 1,250
+  yo_12_sherry:
+    ntd: 1,350
+    uncle_ntd: 1,150
+  yo_12_ml_700:
+    ntd: 1,200
+    uncle_ntd: 1,000
+  yo_12_ml_50:
+    ntd: 250
+    uncle_ntd: 250
 macallan:
   select_oak_mini:
     ntd: ???

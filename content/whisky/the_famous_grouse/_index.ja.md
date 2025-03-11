@@ -1,5 +1,5 @@
 ---
-title: ザ・フェイマス・グラウス
+title: フェイマス・グラウス
 #description: 
 #featured_image: 
 #keywords: [""]

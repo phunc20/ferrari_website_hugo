@@ -1,5 +1,5 @@
 ---
-title: The Famous Grouse
+title: Famous Grouse
 #description: 
 #featured_image: 
 #keywords: [""]

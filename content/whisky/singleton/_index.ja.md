@@ -1,5 +1,5 @@
 ---
-title: Famous Grouse
+title: シングルトン
 #description: 
 #featured_image: 
 #keywords: [""]
