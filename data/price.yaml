@@ -278,13 +278,13 @@ glenlivet:
     uncle_ntd: 2,000
 singleton:
   yo_13_sauternes:
-    ntd: 1,450
+    ntd: 1,300
     uncle_ntd: 1,250
   yo_12_sherry:
-    ntd: 1,350
+    ntd: 1,200
     uncle_ntd: 1,150
   yo_12_ml_700:
-    ntd: 1,200
+    ntd: 1,050
     uncle_ntd: 1,000
   yo_12_ml_50:
     ntd: 250
