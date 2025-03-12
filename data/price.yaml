@@ -79,6 +79,13 @@ monkey_shoulder:
   the_original_percent_40_ml_700:
     ntd: 700
     uncle_ntd: 600
+jack_daniels:
+  sour_mash_percent_40_ml_700:
+    ntd: 650
+    uncle_ntd: 550
+  sour_mash_percent_40_ml_200:
+    ntd: 250
+    uncle_ntd: 150
 the_real_mackenzie:
   extra_smooth:
     ntd: 450
