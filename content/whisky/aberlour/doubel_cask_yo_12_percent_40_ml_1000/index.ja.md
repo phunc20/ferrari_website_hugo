@@ -1,7 +1,7 @@
 ---
 date: 2025-03-12
-title: The Original Blended Malt
-description: 40 度, 700 毫升.
+title: １２年
+description: ４０度、 １l。
 sort_by: Date
 #featured_image: 
 #featured: true

@@ -61,6 +61,10 @@ glen_torran:
     mom_ntd: 2,000
     dad_ntd: 4,000
     matt_ntd: 1,000
+aberlour:
+  doubel_cask_yo_12_percent_40_ml_1000:
+    ntd: 1,500
+    uncle_ntd: 1,300
 glenmorangie:
   yo_10:
     ntd: 2,000
