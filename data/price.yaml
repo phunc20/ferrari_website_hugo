@@ -47,6 +47,9 @@ the_famous_grouse:
     ntd: 300
     mom_ntd: 300
     dad_ntd: 350
+  yo_15_ml_700:
+    ntd: 1,100
+    uncle_ntd: 1,000
 royal_salute:
   hundred_cask_selection:
     ntd: 9,300
