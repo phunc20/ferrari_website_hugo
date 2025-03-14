@@ -1,376 +1,385 @@
-kweichow_moutai:
-  year_2008_percent_53_ml_500:
-    ntd: ???
-hine:
-  xo:
-    ntd: 4,000
-    p9_ntd: 1,800  # https://www.p9.com.tw/Forum/御鹿XO、滿得吉XO、金豪XO、金頭軒XO、拉珊XO、馬爹利名仕-白蘭地-Topics1309962.aspx
-    mom_ntd: 3,000 # https://enjoyit999.com/product/5544
-    somewhere_ntd: 4,000
-landy:
-  the_wonderful_lamp:
-    ntd: 15,000
-    mom_ntd: 13,000
-martell:
-  #ncf:
-  #  ntd: 1,500
-  cordon_bleu_1:
-    ntd: 10,000
-  cordon_bleu_2:
-    ntd: 8,000
-  xo_supreme:
-    ntd: ???
-  xo_supreme_gift_set:
-    ntd: ???
-  creation:
-    ntd: ???
-jim_beam:
-  original_small_batch_bourbon_collection:
-    ntd: 4,500
-    mom_ntd: 1,500
-#dunfife:
-#  the_only:
-#    ntd: 200
-#    mom_ntd: 200
-#    dad_ntd: ???
-kavalan:
-  duo:
-    ntd: 2,200
-    mom_ntd: 1,700
-dupuy:
-  extra:
-    ntd: 3,000
-    mom_ntd: 2,800
-    dad_ntd: ???
-the_famous_grouse:
-  banal:
-    ntd: 300
-    mom_ntd: 300
-    dad_ntd: 350
-  yo_15_ml_700:
-    ntd: 1,100
-    uncle_ntd: 1,000
-royal_salute:
-  hundred_cask_selection:
-    ntd: 9,300
-    mom_ntd: 5,000
-    dad_ntd: 23,000
-glen_torran:
-  yo_18:
-    ntd: 3,000
-    mom_ntd: 2,000
-    dad_ntd: 4,000
-    matt_ntd: 1,000
-aberlour:
-  doubel_cask_yo_12_percent_40_ml_1000:
-    ntd: 1,500
-    uncle_ntd: 1,300
-glenmorangie:
-  yo_10:
-    ntd: 2,000
-    matt_ntd: 1,800
-  gift_set:
-    ntd: 2,400
-    matt_ntd: 2,000
-  four_small_ml_100_bottles:
-    ntd: 1,200
-    uncle_ntd: 1,000
-monkey_shoulder:
-  the_original_percent_40_ml_700:
-    ntd: 700
-    uncle_ntd: 600
-jack_daniels:
-  sour_mash_percent_40_ml_700:
-    ntd: 650
-    uncle_ntd: 550
-  sour_mash_percent_40_ml_200:
-    ntd: 250
-    uncle_ntd: 150
-the_real_mackenzie:
-  extra_smooth:
-    ntd: 450
-    mom_ntd: 440
-    dad_ntd: 500
-mortlach:
-  yo_16:
-    ntd: 2,500
-    mom_ntd: 2,500
-    dad_ntd: 3,400
-  yo_12:
-    ntd: 1,500
-    uncle_ntd: 1,300
-lagavulin:
-  distillers_edition:
-    ntd: 20,000
-laphroaig:
-  yo_10:
-    ntd: 4,000
-    mom_ntd: 2,000
-    matt_ntd: 1,650
-caol_ila:
-  yo_25:
-    ntd: 19,000
-    mom_ntd: 15,000
-  yo_12:
-    ntd: 1,350
-    uncle_ntd: 1,250
-talisker:
-  yo_20:
-    ntd: 32,000
-    mom_ntd: 22,000
-  yo_25:
-    ntd: 38,000
-    mom_ntd: 25,000
-ardbeg:
-  yo_10:
-    ntd: 1,800
-    mom_ntd: 1,400
-  yo_10_new:
-    ntd: 2,100
-    uncle_ntd: 1,900
-highland_park:
-  yo_12:
-    ntd: 3,500
-    mom_ntd: 3,000
-    dad_ntd: ???
-  yo_30:
-    ntd: 50,000
-    mom_ntd: 45,000
-    matt_ntd: 24,000
-bowmore:
-  yo_25:
-    ntd: 48,000
-    matt_ntd: 24,000
-  yo_15:
-    ntd: 10,000
-    matt_ntd: 9,000
-  yo_10:
-    ntd: 1,400
-    uncle_ntd: 1,200
-ballantines:
-  yo_30_percent_43_ml_700:
-    ntd: 20,000
-    mom_ntd: 11,000
-    dad_ntd: 31,750
-    matt_ntd: 6,000
-  rare_aged_yo_21_percent_43_ml_700:
-    ntd: 11,000
-    mom_ntd: 10,000
-    dad_ntd: ???
-    matt_ntd: 2,000
-  yo_17_percent_43_ml_750:
-    ntd: 2,600
-    mom_ntd: 1,600
-    dad_ntd: 6,000
-    matt_ntd: 1,500
-bombay_sapphire:
-  london_dry_gin_ml_1000:
-    ntd: 600
-    mom_ntd: 600
-bowen:
-  wooden_box_extra_percent_40_ml_700:
-    ntd: 12,000
-    mom_ntd: 12,000
-  napoleon:
-    ntd: 3,000
-    mom_ntd: 3,000
-  vsop:
-    ntd: 3,000
-    mom_ntd: 3,000
-camus:
-  jubilee_percent_40_ml_700:
-    ntd: 50,000
-    mom_ntd: 50,000
-  irises:
-    ntd: 11,000
-    mom_ntd: 8,500
-    dad_ntd: 20,000
-  sunflowers:
-    ntd: 11,000
-    mom_ntd: 8,500
-    dad_ntd: 20,000
-  dr_gachet:
-    ntd: 11,000
-    mom_ntd: 8,500
-    dad_ntd: 20,000
-  napoleon:
-    ntd: 10,000
-  extra:
-    ntd: ???
-    p9_ntd: 5,200 # https://www.p9.com.tw/Forum/酒圖欣賞-01／10-金頭軒／卡慕香水／無花／俠農N／吉利天鵝／標槍馬立騎-白蘭地-Topics1310021.aspx
-  xo_ml_350:
-    ntd: ???
-hennessy:
-  richard_percent_40_ml_750:
-    ntd: 100,000
-    mom_ntd: 123,000
-  ellipse:
-    ntd: 516,000
-    mom_ntd: 516,000
-  vsop:
-    ntd: ???
-  vsop_mini_black:
-    ntd: 200
-  vsop_mini_gold:
-    ntd: 250
-  vsop_mini_rainbow:
-    ntd: 300
-  xo_black:
-    ntd: 12,800
-  xo_red:
-    ntd: 12,000
-    p9_ntd: 4,300
-  xo_gift_set:
-    ntd: ???
-  xo_no_box:
-    ntd: ???
-johnnie_walker:
-  blue_label_200_an:
-    ntd: 130,000
-    mom_ntd: 169,945
-    matt_ntd: 66,000
-  king_george_v:
-    ntd: 16,000
-    mom_ntd: 10,000
-    dad_ntd: 22,000
-    matt_ntd: 7,500
-suntory:
-  royal_snake_year_2001_percent_43_ml_600:
-    ntd: 5,700
-    mom_ntd: 5,200
-    matt_ntd: 3,000
-yokota_shuzou:
-  nihonbashi_junmai_daiginjo:
-    ntd: 1,000
-    mom_ntd: 1,000
-chabot:
-  gold_goose_xo:
-    ntd: 5,000
-    mom_ntd: 5,000
-  yo_30_percent_40_ml_700:
-    ntd: 29,000
-    mom_ntd: 10,000
-remy_martin:
-  louis_xiii_2:
-    ntd: 92,000
-    mom_ntd: 80,000
-    dad_ntd: 100,000
-  louis_xiii_millennium_2000:
-    ntd: 150,000
-    mom_ntd: ???
-  centaure_cristal:
-    ntd: 45,000
-    mom_ntd: 25,000
-    dad_ntd: 80,000
-  xo_excellence:
-    ntd: 12,000
-    mom_ntd: 10,000
-    dad_ntd: 18,000
-balblair:
-  limited_ed_1925_over_2400:
-    ntd: 120,000
-    mom_ntd: 58,000
-    matt_ntd: 33,000
-springbank:
-  yo_32:
-    ntd: 150,000
-    mom_ntd: 65,000
-    matt_ntd: 82,000
-convalmore:
-  distilled_1977_bottled_2005_percent_58_ml_700:
-    ntd: 45,000
-    mom_ntd: 20,000
-glenlivet:
-  scott_distilled_1977_bottled_2007:
-    ntd: 22,000
-    matt_ntd: 8,800
-  yo_12:
-    ntd: 950
-    uncle_ntd: 750
-  yo_15:
-    ntd: 2,200
-    uncle_ntd: 2,000
-singleton:
-  yo_13_sauternes:
-    ntd: 1,300
-    uncle_ntd: 1,250
-  yo_12_sherry:
-    ntd: 1,200
-    uncle_ntd: 1,150
-  yo_12_ml_700:
-    ntd: 1,050
-    uncle_ntd: 1,000
-  yo_12_ml_50:
-    ntd: 250
-    uncle_ntd: 250
-macallan:
-  select_oak_mini:
-    ntd: ???
-  yo_12_percent_40_ml_700:
-    ntd: 5,000
-    mom_ntd: 5,000
-  yo_18_distilled_1992_percent_43_ml_700:
-    ntd: 35,000
-    mom_ntd: 20,000
-  yo_18_distilled_1992_percent_43_ml_700_gift_set:
-    ntd: 50,000
-    mom_ntd: 26,000
-  yo_12_percent_40_ml_750:
-    ntd: 20,000
-    mom_ntd: 20,000
-    matt_ntd: 15,500
-  elegancia_1991:
-    ntd: 58,000
-    mom_ntd: 45,000
-    matt_ntd: 22,000
-  elegancia_1992:
-    ntd: ???
-  elegancia_yo_12:
-    ntd: ???
-  yo_10_cask_strength_percent_58.7_ml_1000:
-    ntd: 50,000
-    matt_ntd: ???
-  cask_strength_percent_57_ml_1000:
-    ntd: 50,000
-    matt_ntd: 48,000
-  travel_series:
-    ntd: 72,500
-    matt_ntd: 48,000
-  fine_oak_yo_30:
-    ntd: 172,000
-    mom_ntd: 136,000
-    dad_ntd: 190,000
-    matt_ntd: 110,000
-  fine_oak_yo_25:
-    ntd: 85,000
-    mom_ntd: 63,000
-    dad_ntd: 85,000
-    matt_ntd: 40,000
-  fine_oak_yo_18:
-    ntd: 6,500
-    matt_ntd: 6,000
-  sherry_oak_yo_30:
-    ntd: 205,000
-    mom_ntd: 200,000
-    dad_ntd: 300,000
-    matt_ntd: 168,000
-  sherry_oak_yo_25:
-    ntd: 93,000
-    mom_ntd: 85,000
-    dad_ntd: 146,000
-    matt_ntd: 80,000
-  inspiration_1851:
-    ntd: 35,000
-    mom_ntd: 25,000
-    dad_ntd: 61,000
-    matt_ntd: 12,500
-  millennium_1990:
-    ntd: 15,000
-    mom_ntd: 12,500
-    dad_ntd: 17,000
-    matt_ntd: 6,000
-  scotts_selection_1989:
-    ntd: 12,000
-    mom_ntd: 10,000
-    dad_ntd: 36,000
-    matt_ntd: 5,500
+gin:
+  bombay_sapphire:
+    london_dry_gin_ml_1000:
+      ntd: 600
+      mom_ntd: 600
+sake:
+  yokota_shuzou:
+    nihonbashi_junmai_daiginjo:
+      ntd: 1,000
+      mom_ntd: 1,000
+baijiu:
+  kweichow_moutai:
+    year_2008_percent_53_ml_500:
+      ntd: ???
+  kkl:
+    anniversary_90th:
+      ntd: 2,200
+      mom_ntd: 2,000
+cognac:
+  chabot:
+    gold_goose_xo:
+      ntd: 5,000
+      mom_ntd: 5,000
+    yo_30_percent_40_ml_700:
+      ntd: 29,000
+      mom_ntd: 10,000
+  remy_martin:
+    louis_xiii_2:
+      ntd: 92,000
+      mom_ntd: 80,000
+      dad_ntd: 100,000
+    louis_xiii_millennium_2000:
+      ntd: 150,000
+      mom_ntd: ???
+    centaure_cristal:
+      ntd: 45,000
+      mom_ntd: 25,000
+      dad_ntd: 80,000
+    xo_excellence:
+      ntd: 12,000
+      mom_ntd: 10,000
+      dad_ntd: 18,000
+  hine:
+    xo:
+      ntd: 4,000
+      p9_ntd: 1,800  # https://www.p9.com.tw/Forum/御鹿XO、滿得吉XO、金豪XO、金頭軒XO、拉珊XO、馬爹利名仕-白蘭地-Topics1309962.aspx
+      mom_ntd: 3,000 # https://enjoyit999.com/product/5544
+      somewhere_ntd: 4,000
+  landy:
+    the_wonderful_lamp:
+      ntd: 15,000
+      mom_ntd: 13,000
+  martell:
+    #ncf:
+    #  ntd: 1,500
+    cordon_bleu_1:
+      ntd: 10,000
+    cordon_bleu_2:
+      ntd: 8,000
+    xo_supreme:
+      ntd: ???
+    xo_supreme_gift_set:
+      ntd: ???
+    creation:
+      ntd: ???
+  dupuy:
+    extra:
+      ntd: 3,000
+      mom_ntd: 2,800
+      dad_ntd: ???
+  bowen:
+    wooden_box_extra_percent_40_ml_700:
+      ntd: 12,000
+      mom_ntd: 12,000
+    napoleon:
+      ntd: 3,000
+      mom_ntd: 3,000
+    vsop:
+      ntd: 3,000
+      mom_ntd: 3,000
+  camus:
+    jubilee_percent_40_ml_700:
+      ntd: 50,000
+      mom_ntd: 50,000
+    irises:
+      ntd: 11,000
+      mom_ntd: 8,500
+      dad_ntd: 20,000
+    sunflowers:
+      ntd: 11,000
+      mom_ntd: 8,500
+      dad_ntd: 20,000
+    dr_gachet:
+      ntd: 11,000
+      mom_ntd: 8,500
+      dad_ntd: 20,000
+    napoleon:
+      ntd: 10,000
+    extra:
+      ntd: ???
+      p9_ntd: 5,200 # https://www.p9.com.tw/Forum/酒圖欣賞-01／10-金頭軒／卡慕香水／無花／俠農N／吉利天鵝／標槍馬立騎-白蘭地-Topics1310021.aspx
+    xo_ml_350:
+      ntd: ???
+  hennessy:
+    richard_percent_40_ml_750:
+      ntd: 100,000
+      mom_ntd: 123,000
+    ellipse:
+      ntd: 516,000
+      mom_ntd: 516,000
+    vsop:
+      ntd: ???
+    vsop_mini_black:
+      ntd: 200
+    vsop_mini_gold:
+      ntd: 250
+    vsop_mini_rainbow:
+      ntd: 300
+    xo_black:
+      ntd: 12,800
+    xo_red:
+      ntd: 12,000
+      p9_ntd: 4,300
+    xo_gift_set:
+      ntd: ???
+    xo_no_box:
+      ntd: ???
+whisky:
+  johnnie_walker:
+    blue_label_200_an:
+      ntd: 130,000
+      mom_ntd: 169,945
+      matt_ntd: 66,000
+    king_george_v:
+      ntd: 16,000
+      mom_ntd: 10,000
+      dad_ntd: 22,000
+      matt_ntd: 7,500
+  suntory:
+    royal_snake_year_2001_percent_43_ml_600:
+      ntd: 5,700
+      mom_ntd: 5,200
+      matt_ntd: 3,000
+  the_famous_grouse:
+    banal:
+      ntd: 300
+      mom_ntd: 300
+      dad_ntd: 350
+    yo_15_ml_700:
+      ntd: 1,100
+      uncle_ntd: 1,000
+  royal_salute:
+    hundred_cask_selection:
+      ntd: 9,300
+      mom_ntd: 5,000
+      dad_ntd: 23,000
+  glen_torran:
+    yo_18:
+      ntd: 3,000
+      mom_ntd: 2,000
+      dad_ntd: 4,000
+      matt_ntd: 1,000
+  aberlour:
+    doubel_cask_yo_12_percent_40_ml_1000:
+      ntd: 1,500
+      uncle_ntd: 1,300
+  glenmorangie:
+    yo_10:
+      ntd: 2,000
+      matt_ntd: 1,800
+    gift_set:
+      ntd: 2,400
+      matt_ntd: 2,000
+    four_small_ml_100_bottles:
+      ntd: 1,200
+      uncle_ntd: 1,000
+  monkey_shoulder:
+    the_original_percent_40_ml_700:
+      ntd: 700
+      uncle_ntd: 600
+  jack_daniels:
+    sour_mash_percent_40_ml_700:
+      ntd: 650
+      uncle_ntd: 550
+    sour_mash_percent_40_ml_200:
+      ntd: 250
+      uncle_ntd: 150
+  the_real_mackenzie:
+    extra_smooth:
+      ntd: 450
+      mom_ntd: 440
+      dad_ntd: 500
+  mortlach:
+    yo_16:
+      ntd: 2,500
+      mom_ntd: 2,500
+      dad_ntd: 3,400
+    yo_12:
+      ntd: 1,500
+      uncle_ntd: 1,300
+  lagavulin:
+    distillers_edition:
+      ntd: 20,000
+  laphroaig:
+    yo_10:
+      ntd: 4,000
+      mom_ntd: 2,000
+      matt_ntd: 1,650
+  caol_ila:
+    yo_25:
+      ntd: 19,000
+      mom_ntd: 15,000
+    yo_12:
+      ntd: 1,350
+      uncle_ntd: 1,250
+  talisker:
+    yo_20:
+      ntd: 32,000
+      mom_ntd: 22,000
+    yo_25:
+      ntd: 38,000
+      mom_ntd: 25,000
+  ardbeg:
+    yo_10:
+      ntd: 1,800
+      mom_ntd: 1,400
+    yo_10_new:
+      ntd: 2,100
+      uncle_ntd: 1,900
+  highland_park:
+    yo_12:
+      ntd: 3,500
+      mom_ntd: 3,000
+      dad_ntd: ???
+    yo_30:
+      ntd: 50,000
+      mom_ntd: 45,000
+      matt_ntd: 24,000
+  bowmore:
+    yo_25:
+      ntd: 48,000
+      matt_ntd: 24,000
+    yo_15:
+      ntd: 10,000
+      matt_ntd: 9,000
+    yo_10:
+      ntd: 1,400
+      uncle_ntd: 1,200
+  ballantines:
+    yo_30_percent_43_ml_700:
+      ntd: 20,000
+      mom_ntd: 11,000
+      dad_ntd: 31,750
+      matt_ntd: 6,000
+    rare_aged_yo_21_percent_43_ml_700:
+      ntd: 11,000
+      mom_ntd: 10,000
+      dad_ntd: ???
+      matt_ntd: 2,000
+    yo_17_percent_43_ml_750:
+      ntd: 2,600
+      mom_ntd: 1,600
+      dad_ntd: 6,000
+      matt_ntd: 1,500
+  jim_beam:
+    original_small_batch_bourbon_collection:
+      ntd: 4,500
+      mom_ntd: 1,500
+  #dunfife:
+  #  the_only:
+  #    ntd: 200
+  #    mom_ntd: 200
+  #    dad_ntd: ???
+  kavalan:
+    duo:
+      ntd: 2,200
+      mom_ntd: 1,700
+  balblair:
+    limited_ed_1925_over_2400:
+      ntd: 120,000
+      mom_ntd: 58,000
+      matt_ntd: 33,000
+  springbank:
+    yo_32:
+      ntd: 150,000
+      mom_ntd: 65,000
+      matt_ntd: 82,000
+  convalmore:
+    distilled_1977_bottled_2005_percent_58_ml_700:
+      ntd: 45,000
+      mom_ntd: 20,000
+  glenlivet:
+    scott_distilled_1977_bottled_2007:
+      ntd: 22,000
+      matt_ntd: 8,800
+    yo_12:
+      ntd: 950
+      uncle_ntd: 750
+    yo_15:
+      ntd: 2,200
+      uncle_ntd: 2,000
+  singleton:
+    yo_13_sauternes:
+      ntd: 1,300
+      uncle_ntd: 1,250
+    yo_12_sherry:
+      ntd: 1,200
+      uncle_ntd: 1,150
+    yo_12_ml_700:
+      ntd: 1,050
+      uncle_ntd: 1,000
+    yo_12_ml_50:
+      ntd: 250
+      uncle_ntd: 250
+  macallan:
+    select_oak_mini:
+      ntd: ???
+    yo_12_percent_40_ml_700:
+      ntd: 5,000
+      mom_ntd: 5,000
+    yo_18_distilled_1992_percent_43_ml_700:
+      ntd: 35,000
+      mom_ntd: 20,000
+    yo_18_distilled_1992_percent_43_ml_700_gift_set:
+      ntd: 50,000
+      mom_ntd: 26,000
+    yo_12_percent_40_ml_750:
+      ntd: 20,000
+      mom_ntd: 20,000
+      matt_ntd: 15,500
+    elegancia_1991:
+      ntd: 58,000
+      mom_ntd: 45,000
+      matt_ntd: 22,000
+    elegancia_1992:
+      ntd: ???
+    elegancia_yo_12:
+      ntd: ???
+    yo_10_cask_strength_percent_58.7_ml_1000:
+      ntd: 50,000
+      matt_ntd: ???
+    cask_strength_percent_57_ml_1000:
+      ntd: 50,000
+      matt_ntd: 48,000
+    travel_series:
+      ntd: 72,500
+      matt_ntd: 48,000
+    fine_oak_yo_30:
+      ntd: 172,000
+      mom_ntd: 136,000
+      dad_ntd: 190,000
+      matt_ntd: 110,000
+    fine_oak_yo_25:
+      ntd: 85,000
+      mom_ntd: 63,000
+      dad_ntd: 85,000
+      matt_ntd: 40,000
+    fine_oak_yo_18:
+      ntd: 6,500
+      matt_ntd: 6,000
+    sherry_oak_yo_30:
+      ntd: 205,000
+      mom_ntd: 200,000
+      dad_ntd: 300,000
+      matt_ntd: 168,000
+    sherry_oak_yo_25:
+      ntd: 93,000
+      mom_ntd: 85,000
+      dad_ntd: 146,000
+      matt_ntd: 80,000
+    inspiration_1851:
+      ntd: 35,000
+      mom_ntd: 25,000
+      dad_ntd: 61,000
+      matt_ntd: 12,500
+    millennium_1990:
+      ntd: 15,000
+      mom_ntd: 12,500
+      dad_ntd: 17,000
+      matt_ntd: 6,000
+    scotts_selection_1989:
+      ntd: 12,000
+      mom_ntd: 10,000
+      dad_ntd: 36,000
+      matt_ntd: 5,500
