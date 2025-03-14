@@ -275,6 +275,18 @@ whisky:
     duo:
       ntd: 2,200
       mom_ntd: 1,700
+    number_1_ml_700:
+      ntd: 1,100
+      uncle_ntd: 1,000
+    number_2_ml_700:
+      ntd: 1,100
+      uncle_ntd: 1,000
+    number_1_ml_50:
+      ntd: 250
+      uncle_ntd: 150
+    number_2_ml_50:
+      ntd: 250
+      uncle_ntd: 150
   balblair:
     limited_ed_1925_over_2400:
       ntd: 120,000

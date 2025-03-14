@@ -1,6 +1,6 @@
 ---
 title: Kavalan
-private: true
+#private: true
 #description: 
 #featured_image: 
 #keywords: [""]
