@@ -161,6 +161,9 @@ whisky:
       ntd: 5,700
       mom_ntd: 5,200
       matt_ntd: 3,000
+    kakubin_ml_700:
+      ntd: 550
+      uncle_ntd: 450
   the_famous_grouse:
     banal:
       ntd: 300
