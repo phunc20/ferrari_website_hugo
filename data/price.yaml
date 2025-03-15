@@ -126,6 +126,26 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  glenfiddich:
+    solera_yo_15_percent_40_ml_700:
+      ntd: 1,200
+      uncle_ntd: 1,100
+    amontillado_yo_12_percent_43_ml_700:
+      ntd: 950
+      uncle_ntd: 850
+    yo_15_ml_200:
+      ntd: 450
+      uncle_ntd: 350
+    yo_15_ml_50_gold_cap:
+      ntd: 300
+      uncle_ntd: 200
+    yo_15_ml_50_black_cap:
+      ntd: 250
+      uncle_ntd: 150
+  zuidam_millstone:
+    two_bottle_set_ml_40_40:
+      ntd: 800
+      uncle_ntd: 600
   johnnie_walker:
     blue_label_200_an:
       ntd: 130,000
