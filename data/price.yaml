@@ -126,6 +126,13 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  the_dalmore:
+    yo_12_percent_40_ml_700:
+      ntd: 1,650
+      uncle_ntd: 1,450
+    yo_15_percent_40_ml_700:
+      ntd: 2,700
+      uncle_ntd: 2,500
   the_balvenie:
     doubelwood_yo_12_ml_50:
       ntd: 300
