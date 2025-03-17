@@ -1,7 +1,7 @@
 ---
 date: 2025-03-12
 title: The Original Blended Malt
-description: 40%, 700 ml.
+description: 40%, 700 mL.
 sort_by: Date
 #featured_image: 
 #featured: true

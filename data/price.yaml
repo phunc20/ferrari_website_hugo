@@ -126,6 +126,13 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  the_balvenie:
+    doubelwood_yo_12_ml_50:
+      ntd: 300
+      uncle_ntd: 200
+    doubelwood_yo_12_ml_700:
+      ntd: 1,550
+      uncle_ntd: 1,350
   glenfiddich:
     solera_yo_15_percent_40_ml_700:
       ntd: 1,200
@@ -321,7 +328,7 @@ whisky:
       mom_ntd: 65,000
       matt_ntd: 82,000
     yo_10_100_proof:
-      ntd: 15,000
+      ntd: 13,500
       matt_ntd: 8,000
       uncle_ntd: 12,000
   convalmore:

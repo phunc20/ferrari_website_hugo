@@ -1,11 +1,11 @@
 ---
-date: 2025-03-08
-title: Whisky Maker's Cut
-description: 48.8%, 700 mL. Matured only in first fill sherry seasoned oak casks.
+date: 2025-03-17
+title: Doublewood Agé de 12 Ans 700 mL
+description: 40%, 700 mL.
+sort_by: Date
 #featured_image: 
 #featured: true
 #type: gallery
-#sort_by: Name
 #categories: ["whisky"]
 #resources:
 #  - src: macallan/20_30_40_50/PXL_20241004_100905984.jpg

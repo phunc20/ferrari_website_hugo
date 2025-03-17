@@ -1,7 +1,7 @@
 ---
 date: 2025-03-08
 title: Whisky Maker's Cut
-description: 48.8%, 700 ml. Vieilli uniquement dans des sherry butts de premier remplissage.
+description: 48.8%, 700 mL. Vieilli uniquement dans des sherry butts de premier remplissage.
 #featured_image: 
 #featured: true
 #type: gallery
