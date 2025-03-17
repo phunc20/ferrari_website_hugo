@@ -320,6 +320,10 @@ whisky:
       ntd: 150,000
       mom_ntd: 65,000
       matt_ntd: 82,000
+    yo_10_100_proof:
+      ntd: 15,000
+      matt_ntd: 8,000
+      uncle_ntd: 12,000
   convalmore:
     distilled_1977_bottled_2005_percent_58_ml_700:
       ntd: 45,000
