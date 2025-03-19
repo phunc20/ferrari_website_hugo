@@ -1,7 +1,7 @@
 ---
 date: 2025-03-17
-title: １２年 ７００ml
-description: ４０度、７００ml。
+title: 12 年 1 公升
+description: 43 度, 1 公升.
 sort_by: Date
 #featured_image: 
 #featured: true

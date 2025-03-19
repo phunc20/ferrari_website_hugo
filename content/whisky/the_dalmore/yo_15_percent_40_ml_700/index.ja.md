@@ -1,7 +1,7 @@
 ---
 date: 2025-03-17
 title: １５年 ７００ml
-description: ４０度、 ７００ml。
+description: ４０度、７００ml。
 sort_by: Date
 #featured_image: 
 #featured: true

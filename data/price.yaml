@@ -126,6 +126,10 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  glenfarclas:
+    yo_12_percent_43_ml_1000:
+      ntd: 1,250
+      uncle_ntd: 1,150
   nikka:
     session_ml_700:
       ntd: 1,700
