@@ -126,6 +126,10 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  benromach:
+    cask_strength_yo_12_percent_59_ml_700:
+      ntd: 2,200
+      uncle_ntd: 2,000
   benriach:
     yo_12_percent_46_ml_700:
       ntd: 1,200
