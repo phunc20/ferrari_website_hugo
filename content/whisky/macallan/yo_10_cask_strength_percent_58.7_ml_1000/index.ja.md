@@ -2,7 +2,7 @@
 date: 2024-12-17
 title: １０年 カスクストレングス シェリーオーク
 description: ５８．７度、 １０００ml。
-sort_by: Name
+sort_by: Date
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]

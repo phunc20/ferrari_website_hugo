@@ -2,7 +2,7 @@
 date: 2024-12-09
 title: Fine Oak 18 年
 description: 43 度, 700 毫升. 裸瓶.
-sort_by: Name
+sort_by: Date
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]

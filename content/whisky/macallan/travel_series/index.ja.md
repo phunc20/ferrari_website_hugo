@@ -2,7 +2,7 @@
 date: 2024-10-26
 title: 旅行シリーズ
 description: ４０度、(５００ml) *　４。
-sort_by: Name
+sort_by: Date
 featured: true
 #featured_image: 01_bottles_front.jpg
 #type: gallery

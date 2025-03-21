@@ -4,7 +4,7 @@ date: 2024-10-31
 #featured_image: bottles_front.jpg
 #featured: true
 #type: gallery
-sort_by: Name
+sort_by: Date
 title: Cask Strength (57.2%, 1L)
 #categories: ["whisky"]
 #resources:

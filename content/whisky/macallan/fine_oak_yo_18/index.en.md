@@ -2,7 +2,7 @@
 date: 2024-12-09
 title: Fine Oak 18 Years Old
 description: 43%, 700 mL. Without box.
-sort_by: Name
+sort_by: Date
 #featured_image: bottles_front.jpg
 #featured: true
 #type: gallery

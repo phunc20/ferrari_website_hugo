@@ -4,7 +4,7 @@ date: 2024-11-01
 featured_image: 01_box_front.jpg
 #featured: true
 #type: gallery
-sort_by: Name
+sort_by: Date
 title: 32 Years
 #categories: ["whisky", "springbank"]
 #resources:

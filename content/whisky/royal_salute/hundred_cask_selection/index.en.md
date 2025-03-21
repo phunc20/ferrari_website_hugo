@@ -4,7 +4,7 @@ title: The Hundred Cask Selection
 description: 40%. 700 mL. Box unopened.
 #featured_image: 03_bottle_front.jpg
 #type: gallery
-sort_by: Name
+sort_by: Date
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg

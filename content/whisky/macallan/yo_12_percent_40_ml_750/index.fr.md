@@ -2,7 +2,7 @@
 date: 2024-10-31
 title: Sherry Oak 12 Ans
 description: 40%, 750 mL.
-sort_by: Name
+sort_by: Date
 #featured_image: bottles_front.jpg
 #featured: true
 #type: gallery

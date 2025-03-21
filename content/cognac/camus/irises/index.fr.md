@@ -4,7 +4,7 @@ title: Iris
 description: 40%, 700 mL, 1210 g.
 featured_image: 03_bottle_front.jpg
 #type: gallery
-sort_by: Name
+sort_by: Date
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg

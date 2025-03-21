@@ -2,7 +2,7 @@
 date: 2024-12-09
 title: ファインオーク１８年
 description: ４３度、 ７００ml。箱なし。
-sort_by: Name
+sort_by: Date
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]

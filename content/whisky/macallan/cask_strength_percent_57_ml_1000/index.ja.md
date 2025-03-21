@@ -3,7 +3,7 @@ date: 2024-10-31
 #description: "Price: NT$7,000"
 #featured: true
 #type: gallery
-sort_by: Name
+sort_by: Date
 title: Cask Strength (57.2度, 1l)
 #categories: ["whisky", "macallan"]
 #resources:

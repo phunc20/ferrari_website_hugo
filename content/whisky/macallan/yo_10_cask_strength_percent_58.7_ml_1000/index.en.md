@@ -2,7 +2,7 @@
 date: 2024-12-17
 title: Sherry Oak Cask Strength 10 Years Old
 description: 58.7%, 1000 mL.
-sort_by: Name
+sort_by: Date
 #featured_image: bottles_front.jpg
 #featured: true
 #type: gallery

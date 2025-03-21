@@ -2,7 +2,7 @@
 date: 2024-10-31
 title: シェリーオーク１２年
 description: ４０度、７００ml。
-sort_by: Name
+sort_by: Date
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]

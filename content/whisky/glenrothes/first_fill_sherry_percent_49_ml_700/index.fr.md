@@ -5,7 +5,7 @@ description: 48.8%, 700 mL. Vieilli uniquement dans des sherry butts de premier 
 #featured_image: 
 #featured: true
 #type: gallery
-#sort_by: Name
+#sort_by: Date
 #categories: ["whisky"]
 #resources:
 #  - src: macallan/20_30_40_50/PXL_20241004_100905984.jpg

@@ -3,7 +3,7 @@ date: 2024-11-09
 description: 40度, 700ml. ボトルNo.0118/5000
 featured_image: 06_bottle_front_closer.jpg
 #type: gallery
-sort_by: Name
+sort_by: Date
 title: 30年
 #categories: ["whisky", "springbank"]
 #resources:

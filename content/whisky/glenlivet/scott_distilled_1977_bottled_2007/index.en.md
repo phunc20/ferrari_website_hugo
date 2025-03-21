@@ -3,7 +3,7 @@ date: 2024-10-31
 #description: "Price: NT$6,000"
 #featured_image: 01_box_and_bottle_front.jpg
 #type: gallery
-sort_by: Name
+sort_by: Date
 title: Scott's Selection Distilled 1977 Bottled 2007
 #categories: ["whisky", "springbank"]
 #resources:

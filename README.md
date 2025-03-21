@@ -77,3 +77,8 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
 1. [ ] Read the laws in Taiwan: <https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0330011>
 1. [ ] Bombay Sapphire's logo's aspect ratio
 1. [ ] Japanese numbers -> Full-width
+1. [x] `sort_by: Name` -> `sort_by: Date`
+    - A probably useful command:
+      ```bash
+      grep -Rn "sort_by: Name" | cut -d: -f1 | xargs -I {} sed -i 's/sort_by: Name/sort_by: Date/' {}
+      ```

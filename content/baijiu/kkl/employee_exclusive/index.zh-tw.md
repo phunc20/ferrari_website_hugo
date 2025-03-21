@@ -4,7 +4,7 @@ title: 員工專供酒
 description: 58 度, 600 毫升, 西元 2020 年 08 月 03 日.
 #featured_image: 
 #type: gallery
-sort_by: Name
+sort_by: Date
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg

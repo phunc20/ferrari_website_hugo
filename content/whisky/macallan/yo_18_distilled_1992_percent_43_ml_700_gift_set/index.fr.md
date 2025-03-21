@@ -2,7 +2,7 @@
 date: 2024-10-31
 title: Sherry Oak 18 Ans Coffre Cadeau
 description: 43%, (700 + 50) mL.
-sort_by: Name
+sort_by: Date
 #featured_image: bottles_front.jpg
 #featured: true
 #type: gallery

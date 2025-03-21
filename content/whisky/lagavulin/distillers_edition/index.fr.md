@@ -4,7 +4,7 @@ title: The Distillers Edition
 description: 43%. 700 mL. Distillé en 1987. Mis en bouteille en 2003.
 #featured_image: 03_bottle_front.jpg
 #type: gallery
-sort_by: Name
+sort_by: Date
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg

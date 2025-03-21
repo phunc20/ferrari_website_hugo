@@ -2,7 +2,7 @@
 date: 2024-11-12
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
-sort_by: Name
+sort_by: Date
 title: ブルーラベル 200周年 限定
 #categories: ["whisky", "springbank"]
 #resources:

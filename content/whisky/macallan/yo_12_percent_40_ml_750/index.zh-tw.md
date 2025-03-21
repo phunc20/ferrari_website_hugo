@@ -2,7 +2,7 @@
 date: 2024-10-31
 title: 雪莉桶 12 年
 description: 40 度, 750 毫升.
-sort_by: Name
+sort_by: Date
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]

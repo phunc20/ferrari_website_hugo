@@ -2,7 +2,7 @@
 date: 2024-10-31
 title: シェリーオーク１８年ギフトセット
 description: ４３度、（７００＋５０）ml。
-sort_by: Name
+sort_by: Date
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]
