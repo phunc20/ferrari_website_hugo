@@ -126,6 +126,10 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  auchentoshan:
+    yo_12_percent_40_ml_700:
+      ntd: 800
+      uncle_ntd: 700
   the_glendronach:
     yo_12_percent_43_ml_700:
       ntd: 1,250
