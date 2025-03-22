@@ -1,10 +1,12 @@
 ---
 date: 2024-11-27
-title: 40%. 700 mL.
-#description: 40%. 700 mL.
-#featured_image: 03_bottle_front.jpg
-#type: gallery
+title: Finest Scotch Whisky
+description: 40%, 700 mL.
 sort_by: Date
+params:
+  sold_out: true
+#featured_image: 
+#type: gallery
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg
