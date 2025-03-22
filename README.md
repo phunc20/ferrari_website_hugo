@@ -4,6 +4,21 @@ Like all `https://{userid}.github.io/{reponame}`,
 the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
 
 
+## Installation
+- Hugo
+    - Debian  
+      `apt` sometimes appears too outdated, in which case one may be interested
+      in downloading and installing from, e.g. the latest `.deb` release
+        1. Go to <https://github.com/gohugoio/hugo/releases/latest>
+        1. Download the `.deb` of your likings, just note that there are, as of 2025, different choices btw
+            - `hugo`
+            - `hugo_extended`
+            - `hugo_extended_withdeploy`
+    - Arch Linux  
+      `pacman` usually provides the latest. Go to <https://github.com/gohugoio/hugo/releases/>
+      if you want a different release.
+
+
 ## Constraints
 - GitHub
     - <https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits>
@@ -77,8 +92,12 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
 1. [ ] Read the laws in Taiwan: <https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0330011>
 1. [ ] Bombay Sapphire's logo's aspect ratio
 1. [ ] Japanese numbers -> Full-width
-1. [x] `sort_by: Name` -> `sort_by: Date`
-    - A probably useful command:
-      ```bash
-      grep -Rn "sort_by: Name" | cut -d: -f1 | xargs -I {} sed -i 's/sort_by: Name/sort_by: Date/' {}
-      ```
+1. `sort_by: Name` -> `sort_by: Date`
+    - [ ] Make sure bottles are sorted in the same order across all languages
+        - A probably useful command:
+          ```bash
+          grep -Rn "sort_by: Name" | cut -d: -f1 | xargs -I {} sed -i 's/sort_by: Name/sort_by: Date/' {}
+          ```
+    - [ ] Make sure brands are also sorted in the same order across all languages
+1. [ ] Add filters to each page
+
