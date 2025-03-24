@@ -126,6 +126,10 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  hankey_bannister:
+    original_percent_40_l_1:
+      ntd: 450
+      uncle_ntd: 350
   deanston:
     yo_12_percent_40_ml_700:
       ntd: 1,150
