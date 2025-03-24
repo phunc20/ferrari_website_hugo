@@ -126,6 +126,14 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  deanston:
+    yo_12_percent_40_ml_700:
+      ntd: 1,150
+      uncle_ntd: 1,050
+  jura:
+    yo_12_percent_40_ml_700:
+      ntd: 1,050
+      uncle_ntd: 850
   auchentoshan:
     yo_12_percent_40_ml_700:
       ntd: 800
