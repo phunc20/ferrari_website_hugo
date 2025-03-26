@@ -126,6 +126,10 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  grants:
+    rum_cask_finish_l_1:
+      ntd: 450
+      uncle_ntd: 400
   clan_gold:
     percent_40_l_1:
       ntd: 400
