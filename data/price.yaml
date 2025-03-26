@@ -126,6 +126,10 @@ cognac:
     xo_no_box:
       ntd: ???
 whisky:
+  clan_gold:
+    percent_40_l_1:
+      ntd: 400
+      uncle_ntd: 350
   hankey_bannister:
     original_percent_40_l_1:
       ntd: 450
@@ -311,7 +315,7 @@ whisky:
       matt_ntd: 24,000
   bowmore:
     yo_25:
-      ntd: 35,000
+      ntd: 48,000
       matt_ntd: 24,000
     yo_15:
       ntd: 10,000
