@@ -13,6 +13,9 @@ vodka:
       ntd: 1,200
       uncle_ntd: 1,200
 sake:
+  hakutsuru:
+    hakutsuru_blanc_ml_720:
+      ntd: 620
   yokota_shuzou:
     nihonbashi_junmai_daiginjo:
       ntd: 1,000
