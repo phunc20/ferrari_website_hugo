@@ -3,6 +3,15 @@ gin:
     london_dry_gin_ml_1000:
       ntd: 600
       mom_ntd: 600
+vodka:
+  belvedere:
+    percent_40_ml_50:
+      ntd: 150
+      uncle_ntd: 150
+  van_gogh:
+    eight_bottle_gift_box:
+      ntd: 1,200
+      uncle_ntd: 1,200
 sake:
   yokota_shuzou:
     nihonbashi_junmai_daiginjo:
@@ -103,7 +112,7 @@ cognac:
       ntd: ???
   hennessy:
     richard_percent_40_ml_750:
-      ntd: 100,000
+      ntd: 120,000
       mom_ntd: 123,000
     ellipse:
       ntd: 516,000
