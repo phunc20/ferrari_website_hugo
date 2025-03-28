@@ -1,9 +1,9 @@
 ---
-title: 白酒
+title: Others
 #description: 
 #featured: true
 #featured_image: 
 keywords: []
 menus: "main"
-weight: 40
+weight: 999
 ---

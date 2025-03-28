@@ -4,7 +4,6 @@ title: Vodka
 #featured: true
 #featured_image: 
 keywords: []
-weight: 1
 menus: "main"
-# list pages require at least one image to be displayed.
+weight: 60
 ---

@@ -1,10 +1,9 @@
 ---
-#description: This is the "Whisky" album.
+title: Sake
+#description: 
 #featured: true
-#featured_image: sit_together.jpg
+#featured_image: 
 keywords: []
-title: Saké
-weight: 1
 menus: "main"
-# list pages require at least one image to be displayed.
+weight: 30
 ---

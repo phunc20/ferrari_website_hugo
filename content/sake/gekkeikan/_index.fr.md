@@ -1,9 +1,8 @@
 ---
-title: Sake
+title: Gekkeikan
 #description: 
-#featured: true
 #featured_image: 
 keywords: []
-menus: "main"
-weight: 30
+#menus: "main"
+weight: 2
 ---

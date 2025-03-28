@@ -13,6 +13,9 @@ vodka:
       ntd: 1,200
       uncle_ntd: 1,200
 sake:
+  gekkeikan:
+    percent_13_ml_1800:
+      ntd: 680
   hakutsuru:
     hakutsuru_blanc_ml_720:
       ntd: 620
