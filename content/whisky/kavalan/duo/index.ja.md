@@ -4,6 +4,8 @@ title: Ex-Bourbon Oak & Sherry Oak Leather Coffret
 description: ５７度、 １９６＊２ml。
 featured_image: 02_box_open.jpg
 sort_by: Date
+params:
+  sold_out: true
 #private: true
 #type: gallery
 #categories: ["whisky", "springbank"]
