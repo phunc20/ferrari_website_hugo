@@ -45,7 +45,7 @@ baijiu:
     anniversary_90th:
       ntd: 2,200
       mom_ntd: 2,000
-cognac:
+armagnac:
   chabot:
     gold_goose_xo:
       ntd: 5,000
@@ -53,6 +53,7 @@ cognac:
     yo_30_percent_40_ml_700:
       ntd: 29,000
       mom_ntd: 10,000
+cognac:
   remy_martin:
     louis_xiii_2:
       ntd: 92,000
@@ -318,18 +319,20 @@ whisky:
       matt_ntd: 1,650
   caol_ila:
     yo_25:
-      ntd: 19,000
+      ntd: 16,000
       mom_ntd: 15,000
     yo_12:
       ntd: 1,350
       uncle_ntd: 1,250
   talisker:
     yo_20:
-      ntd: 32,000
+      ntd: 18,000
       mom_ntd: 22,000
+      uncle_ntd: 15,000
     yo_25:
-      ntd: 38,000
+      ntd: 22,000
       mom_ntd: 25,000
+      uncle_ntd: 18,000
   ardbeg:
     yo_10:
       ntd: 1,800
@@ -343,7 +346,7 @@ whisky:
       mom_ntd: 3,000
       dad_ntd: ???
     yo_30:
-      ntd: 50,000
+      ntd: 24,000
       mom_ntd: 45,000
       matt_ntd: 24,000
   bowmore:
