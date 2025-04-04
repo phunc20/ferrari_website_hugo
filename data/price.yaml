@@ -12,6 +12,14 @@ wine:
     campogrande_orvieto_classico_year_2004_percent_12_ml_750:
       ntd: 1,200
       uncle_ntd: 1,000
+  raymond:
+    cabernet_sauvignon_year_2009_percent_15_ml_750:
+      ntd: 1,800
+      uncle_ntd: 1,000
+  pine_ridge:
+    cabernet_sauvignon_year_2003_stagsleapdistrict_ml_750:
+      ntd: 7,600
+      uncle_ntd: ???
 gin:
   bombay_sapphire:
     london_dry_gin_ml_1000:

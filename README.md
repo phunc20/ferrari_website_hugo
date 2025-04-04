@@ -99,5 +99,14 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
           grep -Rn "sort_by: Name" | cut -d: -f1 | xargs -I {} sed -i 's/sort_by: Name/sort_by: Date/' {}
           ```
     - [ ] Make sure brands are also sorted in the same order across all languages
+    - Rule for brand order
+        - Alphabetical order (English):
+            1. ABCD
+            2. EFGH
+            3. IJKL
+            4. MNOP
+            5. QRST
+            6. UVW
+            7. XYZ
 1. [ ] Add filters to each page
 

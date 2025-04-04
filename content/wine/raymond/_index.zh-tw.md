@@ -1,9 +1,9 @@
 ---
-title: Raymond
+title: 雷蒙
 #description: 
 #featured_image: 
 keywords: []
 #menus: "main"
-weight: 2
+weight: 54
 ---
 
