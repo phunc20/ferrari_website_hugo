@@ -1,8 +1,8 @@
 ---
 title: スプリングバンク
-#description: This is the "Springbank" album.
+#description: 
 #featured_image: 
 #keywords: ["", ""]
-weight: 2
+weight: 101
 #menus: "main"
 ---

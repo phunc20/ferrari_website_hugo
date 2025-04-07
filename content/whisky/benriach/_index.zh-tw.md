@@ -3,6 +3,6 @@ title: 班瑞克
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 23
 #menus: "main"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Macallan
 #description: 
-featured_image: macallan_logo.png
+#featured_image: 
 #keywords: ["", ""]
-weight: 2
+weight: 90
 ---

@@ -3,6 +3,6 @@ title: 亞伯樂
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 10
 #menus: "main"
 ---

@@ -1,9 +1,8 @@
 ---
-title: 麥肯思
+title: Glendronach
 #description: 
-private: true
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 50
 #menus: "main"
 ---

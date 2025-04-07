@@ -1,8 +1,8 @@
 ---
-#description: This is the "Springbank" album.
-#featured_image: springbank_logo.jpg
-#keywords: ["Whisky", "Springbank"]
 title: Springbank
-weight: 2
+#description: 
+#featured_image: 
+#keywords: ["Whisky", "Springbank"]
+weight: 101
 #menus: "main"
 ---

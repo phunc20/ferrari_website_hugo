@@ -1,8 +1,9 @@
 ---
-title: 百富
+title: ザ・リアル マッケンジー
 #description: 
+#private: true
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 97
 #menus: "main"
 ---

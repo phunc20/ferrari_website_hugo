@@ -1,8 +1,9 @@
 ---
-title: The Dalmore
+title: The Real Mackenzie
 #description: 
+#private: true
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 97
 #menus: "main"
 ---

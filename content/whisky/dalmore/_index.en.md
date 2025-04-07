@@ -1,8 +1,8 @@
 ---
-title: ザ・フェイマス・グラウス
+title: The Dalmore
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 36
 #menus: "main"
 ---

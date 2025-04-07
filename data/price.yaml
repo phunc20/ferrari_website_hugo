@@ -188,7 +188,7 @@ whisky:
     yo_12_percent_40_ml_700:
       ntd: 800
       uncle_ntd: 700
-  the_glendronach:
+  glendronach:
     yo_12_percent_43_ml_700:
       ntd: 1,250
       uncle_ntd: 1,050
@@ -196,6 +196,10 @@ whisky:
     yo_12_percent_43_ml_1000:
       ntd: 1,250
       uncle_ntd: 1,150
+  glenrothes:
+    first_fill_sherry_percent_49_ml_700:
+      ntd: 1,600
+      uncle_ntd: 1,400
   nikka:
     session_ml_700:
       ntd: 1,700
@@ -208,14 +212,14 @@ whisky:
     yo_12_percent_46_ml_700:
       ntd: 1,200
       uncle_ntd: 1,000
-  the_dalmore:
+  dalmore:
     yo_12_percent_40_ml_700:
       ntd: 1,650
       uncle_ntd: 1,450
     yo_15_percent_40_ml_700:
       ntd: 2,700
       uncle_ntd: 2,500
-  the_balvenie:
+  balvenie:
     doubelwood_yo_12_ml_50:
       ntd: 300
       uncle_ntd: 200
@@ -260,7 +264,7 @@ whisky:
     kakubin_ml_700:
       ntd: 550
       uncle_ntd: 450
-  the_famous_grouse:
+  famous_grouse:
     banal:
       ntd: 300
       mom_ntd: 300
@@ -304,7 +308,7 @@ whisky:
     sour_mash_percent_40_ml_200:
       ntd: 250
       uncle_ntd: 150
-  the_real_mackenzie:
+  real_mackenzie:
     extra_smooth:
       ntd: 450
       mom_ntd: 440

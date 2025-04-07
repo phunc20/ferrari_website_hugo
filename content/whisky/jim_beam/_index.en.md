@@ -4,6 +4,6 @@ title: Jim Beam
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 76
 #menus: "main"
 ---

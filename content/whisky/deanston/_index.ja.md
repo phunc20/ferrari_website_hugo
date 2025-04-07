@@ -3,6 +3,6 @@ title: ディーンストン
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 37
 #menus: "main"
 ---

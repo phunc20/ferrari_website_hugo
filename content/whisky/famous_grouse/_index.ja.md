@@ -1,8 +1,8 @@
 ---
-title: The Famous Grouse
+title: ザ・フェイマス・グラウス
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 40
 #menus: "main"
 ---

@@ -1,9 +1,8 @@
 ---
-title: The Real Mackenzie
+title: ザ・ダルモア
 #description: 
-private: true
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 36
 #menus: "main"
 ---

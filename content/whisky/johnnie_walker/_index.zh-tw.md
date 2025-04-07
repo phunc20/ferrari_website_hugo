@@ -1,8 +1,8 @@
 ---
-#description: This is the "Springbank" album.
-featured_image: johnnie_walker_logo.png
-#keywords: ["Johnnie Walker"]
 title: 約翰走路
-weight: 2
+#description: 
+#featured_image: 
+#keywords: ["Johnnie Walker"]
+weight: 77
 #menus: "main"
 ---

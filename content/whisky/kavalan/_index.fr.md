@@ -4,6 +4,6 @@ title: Kavalan
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 80
 #menus: "main"
 ---

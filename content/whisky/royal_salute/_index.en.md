@@ -3,6 +3,6 @@ title: Royal Salute
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 98
 #menus: "main"
 ---

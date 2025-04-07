@@ -1,8 +1,8 @@
 ---
-#description: This is the "Springbank" album.
-featured_image: johnnie_walker_logo.png
-#keywords: ["Johnnie Walker"]
 title: ジョニー・ウォーカー
-weight: 2
+#description: 
+#featured_image: 
+#keywords: ["Johnnie Walker"]
+weight: 77
 #menus: "main"
 ---

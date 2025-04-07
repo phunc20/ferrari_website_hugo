@@ -1,8 +1,8 @@
 ---
-title: ザ・バルヴェニー
+title: 格蘭多納
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 50
 #menus: "main"
 ---

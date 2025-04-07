@@ -3,6 +3,6 @@ title: シングルトン
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 100
 #menus: "main"
 ---

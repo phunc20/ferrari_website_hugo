@@ -3,6 +3,6 @@ title: ジャックダニエル
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 75
 #menus: "main"
 ---

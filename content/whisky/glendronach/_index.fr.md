@@ -1,8 +1,8 @@
 ---
-title: ザ・ダルモア
+title: Glendronach
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 50
 #menus: "main"
 ---

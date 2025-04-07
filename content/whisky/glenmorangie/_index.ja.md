@@ -4,6 +4,6 @@ title: グレンモーレンジ
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 54
 #menus: "main"
 ---

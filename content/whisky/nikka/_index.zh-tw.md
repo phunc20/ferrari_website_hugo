@@ -3,6 +3,6 @@ title: Nikka 日果
 #description: 
 #featured_image: 
 #keywords: [""]
-weight: 2
+weight: 95
 #menus: "main"
 ---
