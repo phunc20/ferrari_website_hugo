@@ -8,6 +8,13 @@ others:
       ntd: 550
       mom_ntd: 480
 wine:
+  aromo:
+    merlot_2021:
+      ntd: 400
+      uncle_ntd: 400
+    merlot_2009:
+      ntd: 550
+      uncle_ntd: ???
   marchesi_antinori:
     campogrande_orvieto_classico_year_2004_percent_12_ml_750:
       ntd: 1,200
@@ -19,6 +26,10 @@ wine:
   pine_ridge:
     cabernet_sauvignon_year_2003_stagsleapdistrict_ml_750:
       ntd: 7,600
+      uncle_ntd: ???
+  barton_et_guestier:
+    prince_noir_year_2001:
+      ntd: 1,000
       uncle_ntd: ???
 gin:
   bombay_sapphire:
