@@ -55,7 +55,10 @@ baijiu:
       uncle_ntd: 1,100
     baijinlong_anniversary_60_white:
       ntd: 1,500
-      uncle_ntd: 1,400
+      uncle_ntd: 1,300
+    baijinlong_anniversary_60_black:
+      ntd: 1,900
+      uncle_ntd: 1,700
     anniversary_90th:
       ntd: 2,200
       mom_ntd: 2,000
