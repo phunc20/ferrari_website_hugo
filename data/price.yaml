@@ -21,8 +21,8 @@ wine:
       uncle_ntd: 1,000
   barton_et_guestier:
     prince_noir_year_2001:
-      ntd: 1,000
-      uncle_ntd: ???
+      ntd: 700
+      uncle_ntd: 500
   darwin:
     flying_cat_syrah_2021:
       ntd: 400
