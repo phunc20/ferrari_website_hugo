@@ -111,6 +111,10 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
             - Stop ordering through `weight`; instead, write code using alphabetical order from English.
 1. [ ] Add filters to each page
 1. Logo images
+    - Opacity
+      ```
+      convert input_image.png -background white -alpha remove -alpha off output_image.png
+      ```
     - Crop
         - 1st example:
           ```bash
