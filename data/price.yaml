@@ -8,6 +8,10 @@ others:
       ntd: 550
       mom_ntd: 480
 wine:
+  talus:
+    cabernet_sauvignon_2001:
+      ntd: 1,200
+      uncle_ntd: 1,000
   aromo:
     merlot_2021:
       ntd: 400

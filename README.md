@@ -110,4 +110,13 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
                 7. XYZ
             - Stop ordering through `weight`; instead, write code using alphabetical order from English.
 1. [ ] Add filters to each page
-
+1. Logo images
+    - Crop
+        - 1st example:
+          ```bash
+          $ file .trash/ok/aa.png
+          .trash/ok/aa.png: PNG image data, 449 x 539, 8-bit/color RGB, non-interlaced
+          $ convert .trash/ok/aa.png -crop 449x290+0+45 cut.png
+          ```
+          where `449x290+0+45` means starting the crop at the coordinate `(0, 45)` and cropping an image of size
+          `449x290`.
