@@ -8,10 +8,21 @@ others:
       ntd: 550
       mom_ntd: 480
 wine:
+  beringer:
+    classic_red_2006:
+      ntd: 400
+      mom_ntd: 400
+  nederburg:
+    special_late_harvest_2011:
+      ntd: 400
+      mom_ntd: 400
+  boland_cellar:
+    cabernet_sauvignon_shiraz_2005:
+      ntd: 400
+      mom_ntd: 400
   simi:
     landslide_cabernet_sauvignon_2015:
       ntd: 1,500
-      uncle_ntd: ???
   talus:
     cabernet_sauvignon_2001:
       ntd: 1,200
@@ -23,6 +34,9 @@ wine:
     merlot_2009:
       ntd: 550
       uncle_ntd: ???
+    casa_lo_matta_cabernet_sauvignon_2010:
+      ntd: 450
+      mom_ntd: 450
   antinori:
     campogrande_orvieto_classico_year_2004_percent_12_ml_750:
       ntd: 1,200
@@ -493,17 +507,17 @@ whisky:
       ntd: 500
       uncle_ntd: 400
     yo_12_percent_40_ml_700:
-      ntd: 5,000
+      ntd: 3,500
       mom_ntd: 5,000
     yo_18_distilled_1992_percent_43_ml_700_gift_set:
-      ntd: 50,000
+      ntd: 33,000
       mom_ntd: 26,000
     yo_12_percent_40_ml_750:
       ntd: 20,000
       mom_ntd: 20,000
       matt_ntd: 15,500
     elegancia_1991:
-      ntd: 48,000
+      ntd: 45,000
       mom_ntd: 45,000
       matt_ntd: 22,000
     elegancia_1992:
@@ -517,7 +531,7 @@ whisky:
       ntd: 50,000
       matt_ntd: 48,000
     travel_series:
-      ntd: 60,000
+      ntd: 55,000
       matt_ntd: 48,000
     fine_oak_yo_30:
       ntd: 136,000

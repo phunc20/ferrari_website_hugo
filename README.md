@@ -124,3 +124,10 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
           ```
           where `449x290+0+45` means starting the crop at the coordinate `(0, 45)` and cropping an image of size
           `449x290`.
+    - Zoom out
+        - By `-extent`
+          ```bash
+          $ convert .trash/no/bc_logo.png -gravity Center -extent 400x400 out.png
+          ```
+            - Options for `-gravity` are `Center`, `North`, `South`, `East`, `West`, `NorthWest`, `NorthEast`, `SouthWest`, `SouthEast`.
+            - `-extent <new_width>x<new_height>`
