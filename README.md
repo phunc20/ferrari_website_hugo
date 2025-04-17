@@ -131,3 +131,10 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
           ```
             - Options for `-gravity` are `Center`, `North`, `South`, `East`, `West`, `NorthWest`, `NorthEast`, `SouthWest`, `SouthEast`.
             - `-extent <new_width>x<new_height>`
+
+
+## Theme
+- `layouts/` files and their purposes
+    - `_default/`
+        - `home.html` is the first page of the website, i.e. the main page.
+        - `list.html` is the pages of categories of alcohols, e.g. `whisky`, `wine`, `baijiu`, etc.
