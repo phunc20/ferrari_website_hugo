@@ -1,7 +1,7 @@
 ---
-date: 2025-04-03
-title: 2003 年 卡本內蘇維濃 鹿躍區
-description: 14.6 度, 750 毫升.
+date: 2025-04-19
+title: ２００３年 カベルネ・ソーヴィニヨン オークヴィル
+description: １４．３度、７５０ml。
 sort_by: Name
 #featured_image: 
 #featured: true

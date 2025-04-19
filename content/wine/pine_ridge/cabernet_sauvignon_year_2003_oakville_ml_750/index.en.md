@@ -1,7 +1,7 @@
 ---
-date: 2025-04-03
-title: 2003 Cabernet Sauvignon Stags Leap District
-description: 14,6%, 750 mL.
+date: 2025-04-19
+title: 2003 Cabernet Sauvignon Oakville
+description: 14.3%, 750 mL.
 sort_by: Name
 #featured_image: 
 #featured: true

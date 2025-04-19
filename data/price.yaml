@@ -53,6 +53,14 @@ wine:
     cabernet_sauvignon_year_2003_stagsleapdistrict_ml_750:
       ntd: 7,600
       uncle_ntd: ???
+    cabernet_sauvignon_year_2003_oakville_ml_750:
+      ntd: ???
+      uncle_ntd: ???
+      web_ntd: 2,000
+    cabernet_sauvignon_year_2002_rutherford_ml_750:
+      ntd: ???
+      uncle_ntd: ???
+      web_ntd: 3,200
   raymond:
     cabernet_sauvignon_year_2009_percent_15_ml_750:
       ntd: 1,800
