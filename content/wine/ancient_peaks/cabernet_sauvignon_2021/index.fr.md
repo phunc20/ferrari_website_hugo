@@ -1,7 +1,7 @@
 ---
-date: 2025-04-17
-title: Chevalier Grand Farriols 2010
-description: Côtes de Duras. 12.5%, 750 mL.
+date: 2025-04-23
+title: Cabernet Sauvignon 2021
+description: 14,3%, 750 mL.
 sort_by: Name
 #featured_image: 
 #featured: true

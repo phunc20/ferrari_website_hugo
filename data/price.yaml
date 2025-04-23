@@ -8,6 +8,18 @@ others:
       ntd: 550
       mom_ntd: 480
 wine:
+  charles_krug:
+    cabernet_sauvignon_2014:
+      ntd: 4,500
+  ancient_peaks:
+    cabernet_sauvignon_2021:
+      ntd: 1,500
+  austin_hope:
+    cabernet_sauvignon_2021:
+      ntd: 3,000
+  kathryn_hall:
+    cabernet_sauvignon_2014:
+      ntd: 9,000
   justin:
     cabernet_sauvignon_2021:
       ntd: ???
