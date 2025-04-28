@@ -1,5 +1,6 @@
 ---
-title: サングレ・デ・トロ
+title: トーレス
+#title: サングレ・デ・トロ
 #description: 
 #featured_image: 
 #keywords: []

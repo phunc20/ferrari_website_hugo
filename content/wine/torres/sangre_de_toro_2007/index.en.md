@@ -1,12 +1,12 @@
 ---
 date: 2025-04-25
-title: 2007 年
-description: 13.5 度, 750 毫升.
+title: Sangre de Toro Original 2007
+description: 13.5%, 750 mL.
 sort_by: Name
 #featured_image: 
 #featured: true
 #type: gallery
-#categories: ["whisky", "macallan"]
+#categories: ["whisky"]
 #resources:
 #  - src: macallan/20_30_40_50/PXL_20241004_100905984.jpg
 ---

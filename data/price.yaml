@@ -8,6 +8,47 @@ others:
       ntd: 550
       mom_ntd: 480
 wine:
+  torres:
+    sangre_de_toro_2007:
+      ntd: 420
+  santa_carolina:
+    cabernet_sauvignon_2004:
+      ntd: 400
+    vistana_cabernet_sauvignon_merlot_2021:
+      ntd: 300
+  su_and_son:
+    davids_selection_2010:
+      ntd: ???
+  terra_andina:
+    carmenere_2006:
+      ntd: 550
+  valdivieso:
+    barrel_selection_cabernet_sauvignon_2004:
+      ntd: 620
+  wolf_blass:
+    yellow_label_cabernet_sauvignon_2004:
+      ntd: 950
+    eaglehawk_shiraz_merlot_cabernet_2005:
+      ntd: 550
+  yellow_tail:
+    cabernet_sauvignon_2010:
+      ntd: 320
+  grand_sud:
+    merlot_2005_ml_250:
+      ntd: 120
+    grenache_2005_ml_250:
+      ntd: 120
+  jp_chenet:
+    cabernet_syrah_2009_ml_187:
+      ntd: 120
+  jacobs_creek:
+    shiraz_cabernet_2005:
+      ntd: 500
+  aves_del_sur:
+    cabernet_sauvignon_2009:
+      ntd: 450
+    cabernet_sauvignon_2010:
+      ntd: 450
   charles_krug:
     cabernet_sauvignon_2014:
       ntd: 4,500
