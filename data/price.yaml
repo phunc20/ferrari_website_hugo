@@ -8,17 +8,47 @@ others:
       ntd: 550
       mom_ntd: 480
 wine:
+  luis_felipe_edwards:
+    shiraz_2012_ml_187:
+      ntd: 200
+  louis_philippe:
+    set_of_3_bordeaux_2003:
+      ntd: 2,100
+  grand_bireau:
+    bordeaux_rouge_2003:
+      ntd: 500
+  eurovins:
+    grand_farriols_2010:
+      ntd: 900
+  don_roberto:
+    cabernet_sauvignon_2006:
+      ntd: 650
+      uncle_ntd: ???
+  cousino-macul:
+    antiguas_reservas_cabernet_sauvignon_2002:
+      ntd: 1,800
+      mom_ntd: 1,800
+  trivento:
+    malbec_2003:
+      ntd: 450
+      mom_ntd: 450
+  querceto:
+    chianti_classico_riserva_2003:
+      ntd: 2,000
+      mom_ntd: 2,000
   torres:
     sangre_de_toro_2007:
       ntd: 420
   santa_carolina:
     cabernet_sauvignon_2004:
-      ntd: 400
+      ntd: 500
+      mom_ntd: 500
     vistana_cabernet_sauvignon_merlot_2021:
-      ntd: 300
+      ntd: 400
+      mom_ntd: 400
   su_and_son:
     davids_selection_2010:
-      ntd: ???
+      ntd: 200
   terra_andina:
     carmenere_2006:
       ntd: 550
@@ -35,12 +65,14 @@ wine:
       ntd: 320
   grand_sud:
     merlot_2005_ml_250:
-      ntd: 120
+      ntd: 250
+      mom_ntd: 250
     grenache_2005_ml_250:
-      ntd: 120
+      ntd: 250
+      mom_ntd: 250
   jp_chenet:
     cabernet_syrah_2009_ml_187:
-      ntd: 120
+      ntd: 200
   jacobs_creek:
     shiraz_cabernet_2005:
       ntd: 500
@@ -51,16 +83,31 @@ wine:
       ntd: 450
   charles_krug:
     cabernet_sauvignon_2014:
-      ntd: 4,500
+      ntd: 6,000
+      mom_ntd: 6,000
+      web_ntd: 4,500
   ancient_peaks:
     cabernet_sauvignon_2021:
-      ntd: 1,500
+      ntd: 2,000
+      mom_ntd: 2,000
+      web_ntd: 1,500
   austin_hope:
     cabernet_sauvignon_2021:
-      ntd: 3,000
+      ntd: 4,000
+      mom_ntd: 4,000
+      web_ntd: 3,000
   kathryn_hall:
     cabernet_sauvignon_2014:
-      ntd: 9,000
+      ntd: 12,000
+      mom_ntd: 12,000
+      web_ntd: 9,000
+  les_jamelles:
+    cabernet_sauvignon_2002:
+      ntd: 600
+    cabernet_sauvignon_2003:
+      ntd: 600
+    merlot_2003:
+      ntd: 250
   justin:
     cabernet_sauvignon_2021:
       ntd: ???
@@ -69,11 +116,12 @@ wine:
       ntd: 2,200
   dona_paula:
     estate_malbec_2007:
-      ntd: ???
+      ntd: 900
+      mom_ntd: 700
     estate_malbec_2010:
-      ntd: ???
+      ntd: 800
     los_cardos_malbec_2007:
-      ntd: ???
+      ntd: 550
   don_melchor:
     cabernet_sauvignon_1998:
       ntd: 7,000
@@ -87,15 +135,17 @@ wine:
       mom_ntd: 400
   nederburg:
     special_late_harvest_2011:
-      ntd: 400
-      mom_ntd: 400
+      ntd: 600
+      mom_ntd: 600
   boland_cellar:
     cabernet_sauvignon_shiraz_2005:
       ntd: 400
       mom_ntd: 400
   simi:
     landslide_cabernet_sauvignon_2015:
-      ntd: 1,500
+      ntd: 2,000
+      mom_ntd: 2,000
+      web_ntd: 1,500
   talus:
     cabernet_sauvignon_2001:
       ntd: 1,200
@@ -126,17 +176,20 @@ wine:
     cabernet_sauvignon_year_2003_stagsleapdistrict_ml_750:
       ntd: 7,600
       uncle_ntd: ???
+      mom_ntd: ???
     cabernet_sauvignon_year_2003_oakville_ml_750:
-      ntd: ???
-      uncle_ntd: ???
-      web_ntd: 2,000
-    cabernet_sauvignon_year_2002_rutherford_ml_750:
-      ntd: ???
+      ntd: 4,000
       uncle_ntd: ???
       web_ntd: 3,200
+      mom_ntd: 4,200
+    cabernet_sauvignon_year_2002_rutherford_ml_750:
+      ntd: 2,500
+      uncle_ntd: ???
+      web_ntd: 2,000
+      mom_ntd: 2,500
   raymond:
     cabernet_sauvignon_year_2009_percent_15_ml_750:
-      ntd: 1,800
+      ntd: 1,500
       uncle_ntd: 1,000
 gin:
   bombay_sapphire:
