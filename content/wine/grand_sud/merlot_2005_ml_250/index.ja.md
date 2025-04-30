@@ -1,6 +1,6 @@
 ---
 date: 2025-04-25
-title: ２００５年 メルロー
+title: ２００５年 メルロー ２５０ml
 description: １３．５度、２５０ml。
 sort_by: Name
 #featured_image: 

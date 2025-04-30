@@ -1,6 +1,6 @@
 ---
 date: 2025-04-25
-title: Merlot 2005
+title: 2005 Merlot 250 mL
 description: 13,5%, 250 mL.
 sort_by: Name
 #featured_image: 

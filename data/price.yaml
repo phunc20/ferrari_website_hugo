@@ -110,7 +110,7 @@ wine:
       ntd: 250
   justin:
     cabernet_sauvignon_2021:
-      ntd: ???
+      ntd: 1,350
   cloudy_bay:
     sauvignon_blanc_2006:
       ntd: 2,200
@@ -152,8 +152,9 @@ wine:
       uncle_ntd: 1,000
   aromo:
     merlot_2021:
-      ntd: 400
+      ntd: 500
       uncle_ntd: 400
+      mom_ntd: 500
     merlot_2009:
       ntd: 550
       uncle_ntd: ???

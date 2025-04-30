@@ -1,6 +1,6 @@
 ---
 date: 2025-04-25
-title: ２００５年 Lieblich グルナッシュ
+title: ２００５年 Lieblich グルナッシュ ２５０ml
 description: １２．５度、２５０ml。
 sort_by: Name
 #featured_image: 

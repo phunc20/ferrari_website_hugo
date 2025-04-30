@@ -1,6 +1,6 @@
 ---
 date: 2025-04-25
-title: 2005 年 Lieblich 格納希
+title: 2005 年 Lieblich 格納希 250 毫升
 description: 12.5 度, 250 毫升.
 sort_by: Name
 #featured_image: 
