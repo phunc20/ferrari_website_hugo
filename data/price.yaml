@@ -222,6 +222,52 @@ baijiu:
     year_2008_percent_53_ml_500:
       ntd: ???
   kkl:
+    zhan_ml_200:
+      ntd: 200
+      uncle_ntd: 150
+    lunar_new_year_100:
+      ntd: 1,700
+      uncle_ntd: 1,500
+    lunar_new_year_108:
+      ntd: 1,200
+      uncle_ntd: 1,100
+    lunar_new_year_114:
+      ntd: 780
+      uncle_ntd: 680
+    dragon_boat_113:
+      ntd: 750
+      uncle_ntd: 650
+    mid_autumn_100:
+      ntd: 1,400
+      uncle_ntd: 1,200
+    aged_premium:
+      ntd: 10,500
+      uncle_ntd: 7,000
+      mom_ntd: 10,000
+    orange_special_select_percent_53_ml_750:
+      ntd: 550
+      uncle_ntd: 500
+    red_percent_58_ml_600:
+      ntd: 470
+      uncle_ntd: 420
+    red_percent_58_ml_750:
+      ntd: 630
+      uncle_ntd: 580
+    white_percent_58_ml_600:
+      ntd: 450
+      uncle_ntd: 400
+    white_percent_58_ml_750:
+      ntd: 600
+      uncle_ntd: 550
+    white_percent_38_ml_600:
+      ntd: 400
+      uncle_ntd: 350
+    white_percent_38_ml_750:
+      ntd: 500
+      uncle_ntd: 450
+    memorial_2024:
+      ntd: 530
+      uncle_ntd: 480
     baijinlong_anniversary_61_gray:
       ntd: 1,200
       uncle_ntd: 1,100

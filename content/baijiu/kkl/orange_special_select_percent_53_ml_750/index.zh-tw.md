@@ -1,10 +1,10 @@
 ---
-date: 2025-01-21
-title: 民國 108 年春節配售專用酒
-description: 53 度, 1000 毫升, 西元 2018 年 12 月 17 日.
+date: 2025-05-02
+title: 橘特選 53° 750 毫升
+#description: 
+#sort_by: Date
 #featured_image: 
 #type: gallery
-#sort_by: Date
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg
