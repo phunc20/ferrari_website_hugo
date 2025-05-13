@@ -280,6 +280,15 @@ baijiu:
     anniversary_90th:
       ntd: 2,200
       mom_ntd: 2,000
+    employee_exclusive:
+      ntd: 700
+      uncle_ntd: 600
+    long_feng_dispensing_liquor:
+      ntd: 1,500
+      uncle_ntd: 1,200
+    can_yao_jin_chun_version_golddragon_ml_750:
+      ntd: 3,500
+      uncle_ntd: 3,000
 armagnac:
   chabot:
     gold_goose_xo:
@@ -483,6 +492,9 @@ whisky:
       mom_ntd: 10,000
       dad_ntd: 22,000
       matt_ntd: 7,500
+    platinum_yo_18_ml_200:
+      ntd: 650
+      uncle_ntd: 550
   suntory:
     royal_snake_year_2001_percent_43_ml_600:
       ntd: 5,700
@@ -533,7 +545,7 @@ whisky:
       ntd: 650
       uncle_ntd: 550
     sour_mash_percent_40_ml_200:
-      ntd: 250
+      ntd: 200
       uncle_ntd: 150
   real_mackenzie:
     extra_smooth:
