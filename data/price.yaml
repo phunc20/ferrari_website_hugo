@@ -427,7 +427,7 @@ whisky:
       uncle_ntd: 350
   hankey_bannister:
     original_percent_40_l_1:
-      ntd: 450
+      ntd: 400
       uncle_ntd: 350
   deanston:
     yo_12_percent_40_ml_700:
@@ -500,6 +500,15 @@ whisky:
       ntd: 800
       uncle_ntd: 600
   johnnie_walker:
+    black_label_yo_12_ml_1000:
+      ntd: 850
+      uncle_ntd: 750
+    gold_label_reserve_ml_1000:
+      ntd: 1,200
+      uncle_ntd: 1,100
+    xr_yo_21:
+      ntd: 2,500
+      uncle_ntd: 2,400
     blue_label_200_an:
       ntd: 130,000
       mom_ntd: 169,945
