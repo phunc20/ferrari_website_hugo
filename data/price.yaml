@@ -583,12 +583,18 @@ whisky:
       mom_ntd: 440
       dad_ntd: 500
   mortlach:
-    yo_16:
+    yo_16_percent_43_ml_750:
       ntd: 2,500
       mom_ntd: 2,500
       dad_ntd: 3,400
-    yo_12:
-      ntd: 1,500
+    yo_16_percent_43_ml_700:
+      ntd: 2,300
+      uncle_ntd: 2,200
+    yo_12_taiwan_edition_percent_40_ml_700:
+      ntd: 1,400
+      uncle_ntd: 1,300
+    yo_12_percent_43_ml_700:
+      ntd: 1,400
       uncle_ntd: 1,300
   lagavulin:
     distillers_edition:

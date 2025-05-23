@@ -1,8 +1,9 @@
 ---
 date: 2025-03-10
-title: Agé de 12 ans
+title: Agé de 12 ans Taiwan Edition
 description: 40.4%, 700 mL.
-sort_by: Date
+sold_out: true
+#sort_by: Date
 #private: true
 #featured_image: 03_bottle_front.jpg
 #type: gallery

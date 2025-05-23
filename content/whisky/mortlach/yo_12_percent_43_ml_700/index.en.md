@@ -1,8 +1,8 @@
 ---
-date: 2025-03-10
-title: １２年
-description: ４０．４度、 ７００ml。
-sort_by: Date
+date: 2025-05-23
+title: Aged 12 Years 43.4% 700 mL
+#description: 43.4%, 700 mL.
+#sort_by: Date
 #private: true
 #featured_image: 03_bottle_front.jpg
 #type: gallery

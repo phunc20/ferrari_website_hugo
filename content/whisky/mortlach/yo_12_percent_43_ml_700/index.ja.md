@@ -1,8 +1,8 @@
 ---
-date: 2025-03-10
-title: 12 年
-description: 40.4 度, 700 毫升.
-sort_by: Date
+date: 2025-05-23
+title: １２年 ４３．４度 ７００ml
+#description: ４３．４度、 ７００ml。
+#sort_by: Date
 #private: true
 #featured_image: 03_bottle_front.jpg
 #type: gallery
