@@ -1,8 +1,8 @@
 ---
-date: 2024-10-31
-title: 雪莉桶 12 年莊園版
-description: 40 度, 750 毫升.
-sort_by: Date
+date: 2025-05-24
+title: シェリーオーク１２年木箱
+description: ４３度、７５０ml。
+#sort_by: Date
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]
