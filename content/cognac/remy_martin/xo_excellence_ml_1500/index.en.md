@@ -1,7 +1,7 @@
 ---
 date: 2024-12-05
-title: XO Excellence
-description: 40 度. 1500 毫升
+title: XO Excellence 1500 mL
+description: 40%, 1500 mL.
 #featured_image: 03_box_open.jpg
 #type: gallery
 sort_by: Date

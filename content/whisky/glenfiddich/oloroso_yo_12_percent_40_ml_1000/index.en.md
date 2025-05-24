@@ -1,10 +1,10 @@
 ---
-date: 2024-12-05
-title: XO Excellence
-description: 40%. 1500 mL.
-#featured_image: 03_box_open.jpg
+date: 2025-05-24
+title: 12 Years Old 1 L
+description: 40%, 1 L.
+#sort_by: Date
+#featured_image: 
 #type: gallery
-sort_by: Date
 #categories: ["whisky", "springbank"]
 #resources:
 #  - src: springbank/aged_32_years/box_front.jpg
