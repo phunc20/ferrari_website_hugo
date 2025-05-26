@@ -400,6 +400,9 @@ cognac:
     xo_ml_350:
       ntd: ???
   hennessy:
+    nba_vsop_ml_700:
+      ntd: 1,400
+      uncle_ntd: 1,300
     richard_percent_40_ml_750:
       ntd: 120,000
       mom_ntd: 123,000
