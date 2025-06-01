@@ -15,6 +15,9 @@ others:
     set_mini_ii_seria:
       ntd: 600
       uncle_ntd: 500
+    tatratea_i_seria_set:
+      ntd: 900
+      uncle_ntd: 750
 wine:
   luis_felipe_edwards:
     shiraz_2012_ml_187:
