@@ -229,6 +229,10 @@ sake:
       ntd: 3,000
       mom_ntd: 3,000
 baijiu:
+  wuliangye:
+    percent_68_ml_500:
+      ntd: 8,000
+      dad_rmb: 1,900
   kweichow_moutai:
     year_2008_percent_53_ml_500:
       ntd: ???
@@ -574,7 +578,7 @@ whisky:
       matt_ntd: 1,000
   aberlour:
     doubel_cask_yo_12_percent_40_ml_1000:
-      ntd: 1,500
+      ntd: 1,400
       uncle_ntd: 1,300
   glenmorangie:
     yo_15_percent_43_ml_700_wood_case:
