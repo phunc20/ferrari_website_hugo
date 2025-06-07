@@ -247,10 +247,10 @@ baijiu:
       ntd: 1,200
       uncle_ntd: 1,100
     lunar_new_year_114:
-      ntd: 780
+      ntd: 730
       uncle_ntd: 680
     dragon_boat_113:
-      ntd: 750
+      ntd: 700
       uncle_ntd: 650
     mid_autumn_100:
       ntd: 1,400
@@ -654,6 +654,9 @@ whisky:
     yo_10_new:
       ntd: 2,100
       uncle_ntd: 1,900
+    smoketrails_percent_46_ml_1000:
+      ntd: 2,000
+      uncle_ntd: 1,800
   highland_park:
     yo_12:
       ntd: 3,500
