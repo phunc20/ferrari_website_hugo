@@ -131,6 +131,14 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
           ```
             - Options for `-gravity` are `Center`, `North`, `South`, `East`, `West`, `NorthWest`, `NorthEast`, `SouthWest`, `SouthEast`.
             - `-extent <new_width>x<new_height>`
+1. Karaoke
+    - Search system
+        - [ ] `jsonl` data format for easier Git version control
+    - Knowledge
+        - [ ] Security in Javascript/Go
+            - [`safe.JS`](https://gohugo.io/functions/safe/js/)
+            - [`encoding.Jsonify`](https://gohugo.io/functions/encoding/jsonify/)
+            - [`transform.Unmarshal`](https://gohugo.io/functions/transform/unmarshal/)
 
 
 ## Theme
@@ -138,3 +146,28 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
     - `_default/`
         - `home.html` is the first page of the website, i.e. the main page.
         - `list.html` is the pages of categories of alcohols, e.g. `whisky`, `wine`, `baijiu`, etc.
+- `assets/`
+    - `css/`
+        - You can put your customized CSS file inside this directory. For example, if you have an HTML
+          file under the path `content/karaoke-by-gender.html` and you want it attached with a CSS file
+          `assets/css/karaoke-by-gender.css` then you should
+            1. Create and edit a Markdown file under, say, `content/karaoke-by-gender.md` with front matter
+               similar to that from below.
+               ```markdown
+               ---
+               title: "依照歌手查詢"
+               #url: "/karaoke-by-gender/"
+               layout: karaoke-by-gender
+               ---
+               ```
+            1. Create and edit an HTML file, under e.g., `layouts/_default/karaoke-by-gender.html`
+            1. Create and edit a CSS file under `assets/css/karaoke-by-gender.css`. E.g.
+               ```css
+               form {
+                   font-size: 1.125rem;
+               }
+               ```
+            1. Import that CSS file in your `assets/css/main.scss`
+               ```scss
+               @import "karaoke-by-gender";
+               ```
