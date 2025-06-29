@@ -2,6 +2,9 @@ beer:
   budweiser:
     most_common_ml_330_cans_6:
       ntd: 190
+      ntd_per_can: 33
+      wangwang_ntd_per_can: 33
+      pxmart_ntd: 198
 others:
   hakutsuru:
     umeshu_genshu_ml_720:
@@ -235,7 +238,8 @@ baijiu:
       dad_rmb: 1,900
   kweichow_moutai:
     year_2008_percent_53_ml_500:
-      ntd: ???
+      ntd: 13,500
+      takamatsu_airport_20250623_jpy: 63,000
   kkl:
     zhan_ml_200:
       ntd: 200

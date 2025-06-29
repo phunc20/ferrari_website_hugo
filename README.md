@@ -171,3 +171,12 @@ the website should be at `https://phunc20.github.io/ferrari_website_hugo`.
                ```scss
                @import "karaoke-by-gender";
                ```
+
+
+## Competitors or Colleagues
+可以互相參考價格
+
+- [旺旺洋酒 aka 大旺購物網](https://wangwang.tw)
+    - 門市地址 and 電話
+        - 彰化市自強南路 28 號, 04-7226662
+        - 臺中市南屯區大墩二街 19 號 1 樓, 04-24716920
