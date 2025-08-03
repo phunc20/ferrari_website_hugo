@@ -1,5 +1,5 @@
 ---
-title: 其他
+title: 其他酒類
 description: 愛爾蘭奶酒, 梅酒等.
 #featured: true
 #featured_image: 

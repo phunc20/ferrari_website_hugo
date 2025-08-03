@@ -1,5 +1,5 @@
 ---
-title: Others
+title: Other Alcohol
 description: Irish cream, umeshu, etc.
 #featured: true
 #featured_image: 
