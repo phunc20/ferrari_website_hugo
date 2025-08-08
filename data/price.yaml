@@ -488,7 +488,7 @@ whisky:
       uncle_ntd: 1,500
   benromach:
     cask_strength_yo_12_percent_59_ml_700:
-      ntd: 2,200
+      ntd: 2,100
       uncle_ntd: 2,000
   benriach:
     yo_12_percent_46_ml_700:
@@ -581,8 +581,8 @@ whisky:
       dad_ntd: 4,000
       matt_ntd: 1,000
   aberlour:
-    doubel_cask_yo_12_percent_40_ml_1000:
-      ntd: 1,400
+    double_cask_yo_12_percent_40_ml_1000:
+      ntd: 1,300
       uncle_ntd: 1,300
   glenmorangie:
     yo_15_percent_43_ml_700_wood_case:
@@ -760,7 +760,7 @@ whisky:
       ntd: 1,200
       uncle_ntd: 1,150
     yo_12_ml_700:
-      ntd: 1,050
+      ntd: 1,000
       uncle_ntd: 1,000
     yo_12_ml_50:
       ntd: 250

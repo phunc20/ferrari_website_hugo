@@ -1,7 +1,8 @@
 ---
 date: 2025-03-12
-title: １２年
-description: ４０度、 １l。
+title: 12 年雙桶熟成
+description: 40 度, 1 公升.
+sold_out: true
 sort_by: Date
 #featured_image: 
 #featured: true
