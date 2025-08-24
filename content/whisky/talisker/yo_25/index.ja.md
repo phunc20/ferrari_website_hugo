@@ -1,6 +1,7 @@
 ---
 date: 2024-11-18
 title: ２５年
+sold_out: true
 description: ５７．８度、 ７００ml。２００４年に瓶詰め。２１，０００本限定。ボトル No.０１３５６
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery

@@ -468,7 +468,7 @@ whisky:
       uncle_ntd: 850
   auchentoshan:
     yo_12_percent_40_ml_700:
-      ntd: 800
+      ntd: 750
       uncle_ntd: 700
   glendronach:
     yo_12_percent_43_ml_700:
@@ -533,7 +533,7 @@ whisky:
       uncle_ntd: 600
   johnnie_walker:
     black_label_yo_12_ml_1000:
-      ntd: 850
+      ntd: 750
       uncle_ntd: 750
     gold_label_reserve_ml_1000:
       ntd: 1,200

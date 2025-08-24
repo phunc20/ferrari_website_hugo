@@ -1,6 +1,7 @@
 ---
 date: 2024-11-18
 title: ２０年
+sold_out: true
 description: ５８．８度、 ７００ml。１９８２年に蒸留、２００３年に瓶詰め。１２，０００本限定。ボトル No.２２５０。
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery

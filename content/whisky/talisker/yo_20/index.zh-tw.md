@@ -1,6 +1,7 @@
 ---
 date: 2024-11-18
 title: 20 年
+sold_out: true
 description: 58.8 度. 700 毫升. 1982 年蒸餾, 2003 年裝瓶. 限量 12,000 瓶. 編號 2250.
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery

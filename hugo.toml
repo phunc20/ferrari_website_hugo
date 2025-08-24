@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = ''
 #baseURL = "https://phunc20.github.io/ferrari_website_hugo/"
 #languageCode = 'zh-tw'
 defaultContentLanguage = 'zh-tw'
