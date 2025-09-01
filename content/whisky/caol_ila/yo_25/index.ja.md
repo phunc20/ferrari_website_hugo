@@ -1,6 +1,7 @@
 ---
 date: 2024-11-19
 title: ２５年
+sold_out: true
 description: ５９．４度、 ７００ml。１９７８年に蒸留。
 featured_image: 03_bottle_front.jpg
 #type: gallery
