@@ -6,6 +6,37 @@ beer:
       wangwang_ntd_per_can: 33
       pxmart_ntd: 198
 others:
+  dried_fruit:
+    ananas:
+      # 250g
+      ntd: 250
+    cashew:
+      # 500g
+      ntd: 250
+    durian:
+      # 250g
+      ntd: 270
+    jackfruit:
+      # 200g
+      ntd: 100
+    macadamia:
+      # 500g
+      ntd: 250
+    mango:
+      # 500g
+      ntd: 400
+    strawberry:
+      # 100g
+      ntd: 100
+    strawberry-jackfruit:
+      # 150g
+      ntd: 100
+    sweet_potato:
+      # 250g
+      ntd: ???
+    vegetable:
+      # 250g
+      ntd: ???
   hakutsuru:
     umeshu_genshu_ml_720:
       ntd: 520
