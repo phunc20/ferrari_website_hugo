@@ -1,7 +1,7 @@
 ---
-title: その他のお酒 
-#title: その他
-description: アイリッシュ・クリーム、梅酒など。
+title: その他
+#title: その他のお酒
+description: アイリッシュ・クリーム、梅酒、ドライフルーツなど。
 #featured: true
 #featured_image: 
 keywords: []
