@@ -2,6 +2,7 @@
 date: 2025-05-23
 title: １６年 ７００ml
 description: ４３．４度、 ７００ml。
+sold_out: true
 #private: true
 #featured_image: 03_bottle_front.jpg
 #type: gallery

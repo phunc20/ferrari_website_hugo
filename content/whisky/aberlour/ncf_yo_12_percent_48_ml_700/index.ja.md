@@ -1,7 +1,7 @@
 ---
-date: 2025-03-12
-title: ダブルカスク１２年
-description: ４０度、 １l。
+date: 2025-09-20
+title: ノンチルフィルタード、ダブルカスク１２年
+description: ４８度、 ７００ml。
 #sold_out: true
 sort_by: Date
 #featured_image: 

@@ -1,8 +1,8 @@
 ---
-date: 2024-11-21
-title: １６年
-description: ４３．４度、 ７５０ml。
-private: true
+date: 2025-09-20
+title: １６年 ４３．４度 ７５０ml
+#description: ４３．４度、 ７５０ml。
+#private: true
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 sort_by: Date

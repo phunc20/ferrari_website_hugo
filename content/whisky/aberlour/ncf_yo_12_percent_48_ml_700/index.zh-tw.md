@@ -1,7 +1,7 @@
 ---
-date: 2025-03-12
-title: ダブルカスク１２年
-description: ４０度、 １l。
+date: 2025-09-20
+title: 非冷凝過濾, 12 年雙桶熟成
+description: 48 度, 700 毫升.
 #sold_out: true
 sort_by: Date
 #featured_image: 

@@ -2,7 +2,7 @@
 date: 2025-03-12
 title: 12 年雙桶熟成
 description: 40 度, 1 公升.
-sold_out: true
+#sold_out: true
 sort_by: Date
 #featured_image: 
 #featured: true
