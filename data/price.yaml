@@ -615,6 +615,8 @@ whisky:
     double_cask_yo_12_percent_40_ml_1000:
       ntd: 1,300
       uncle_ntd: 1,300
+    ncf_yo_12_percent_48_ml_700:
+      ntd: 1,150
   glenmorangie:
     yo_15_percent_43_ml_700_wood_case:
       ntd: 5,000

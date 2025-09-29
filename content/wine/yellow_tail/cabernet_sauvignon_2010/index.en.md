@@ -2,8 +2,9 @@
 date: 2025-04-25
 title: Cabernet Sauvignon 2010
 description: 13.5%, 750 mL.
+sold_out: true
 sort_by: Name
-#featured_image: 
+#featured_image:
 #featured: true
 #type: gallery
 #categories: ["whisky"]

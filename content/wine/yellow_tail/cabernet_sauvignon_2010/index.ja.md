@@ -2,8 +2,9 @@
 date: 2025-04-25
 title: ２０１０年 カベルネ・ソーヴィニヨン
 description: １３．５度、７５０ml。
+sold_out: true
 sort_by: Name
-#featured_image: 
+#featured_image:
 #featured: true
 #type: gallery
 #categories: ["whisky", "macallan"]
