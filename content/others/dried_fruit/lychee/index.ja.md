@@ -1,8 +1,9 @@
 ---
 date: 2025-09-18
 title: ライチ 250g
-#description: 
-#featured_image: 
+sold_out: true
+#description:
+#featured_image:
 #type: gallery
 #sort_by: Date
 #categories: ["whisky", "springbank"]

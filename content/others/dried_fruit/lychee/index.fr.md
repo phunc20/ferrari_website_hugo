@@ -1,7 +1,8 @@
 ---
 date: 2025-09-18
 title: Litchi 250g
-#description: 
+sold_out: true
+#description:
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
 #sort_by: Date

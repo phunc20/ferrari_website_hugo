@@ -1,7 +1,8 @@
 ---
 date: 2025-09-18
-title: 🥭Dried Mango 500g
-#description: 
+title: 🥭Dried Mango 250g
+#title: 🥭Dried Mango 500g
+#description:
 #featured_image: 03_bottle_front.jpg
 #type: gallery
 #sort_by: Date

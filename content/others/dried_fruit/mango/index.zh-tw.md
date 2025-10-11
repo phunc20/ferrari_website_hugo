@@ -1,7 +1,8 @@
 ---
 date: 2025-09-18
-title: 🥭芒果乾 500 克
-#description: 
+title: 🥭芒果乾 250 克
+#title: 🥭芒果乾 500 克
+#description:
 #featured_image: 02_bottle_in_box.jpg
 #type: gallery
 #sort_by: Date

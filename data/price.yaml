@@ -23,8 +23,10 @@ others:
       # 500g
       ntd: 250
     mango:
+      # 250g
+      ntd: 200
       # 500g
-      ntd: 400
+      #ntd: 400
     strawberry:
       # 100g
       ntd: 100
